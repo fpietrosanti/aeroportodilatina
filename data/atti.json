@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "titolo": "Registro degli atti istituzionali sull'aeroporto civile di Latina",
+    "descrizione": "Ogni istanza/mozione/interrogazione/interpellanza/ordine del giorno/emendamento/risoluzione/studio/piano/progetto citato dagli articoli, con il promotore, la sede (consiglio/assemblea), gli articoli-fonte e lo STATO DELL'ORIGINALE (trovato o da reperire offline). Derivato dalla rassegna stampa; rinvia alla cronistoria via evento_collegato.",
+    "ultimo_aggiornamento": "2026-07-03",
+    "legenda_stato_originale": {
+      "trovato": "documento originale reperito (link/PDF)",
+      "OFFLINE-DA-REPERIRE": "atto noto dagli articoli ma originale non reperito: da richiedere all'ente"
+    },
+    "nota": "Estrazione via agenti sui 66 articoli 'core' diretti. Numeri e date puntuali degli atti spesso non citati dagli articoli: da confermare sull'originale."
+  },
+  "atti": [
+    {
+      "id": "ATTO-1996-SEN",
+      "atto_tipo": "emendamenti (finanziaria)",
+      "oggetto": "Priorità alla progettazione/realizzazione dell'aeroporto di Latina come scalo ausiliario e complementare a Fiumicino e Ciampino",
+      "promotore": "sen. Pedrizzi, Reccia, Moro, Morena e altri",
+      "ruolo_partito": "Senatori (Alleanza Nazionale e altri)",
+      "ente_sede": "Senato — Commissioni 5ª e 6ª riunite",
+      "data": "1996-12-03",
+      "numero_atto": "emm. 36.12, 36.32, 36.10 (boll. 69)",
+      "esito": "senza seguito attuativo",
+      "evento_collegato": "EV-1996-001",
+      "articoli_fonte": [],
+      "stato_originale": "trovato",
+      "originale_url": "https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69",
+      "pdf_locale": "pdf/senato_1996-12-03_boll69-resoconto-commissioni-5e6-riunite_latina.pdf",
+      "ente_detentore": "Senato della Repubblica",
+      "modalita_richiesta": ""
+    },
+    {
+      "id": "ATTO-2007-CAM",
+      "atto_tipo": "risoluzione",
+      "oggetto": "Richiesta al Governo di interventi per decongestionare Ciampino e valutare la fattibilità di un ulteriore scalo nel Lazio",
+      "promotore": "IX Commissione (Trasporti) della Camera",
+      "ruolo_partito": "IX Commissione Camera dei Deputati",
+      "ente_sede": "Camera dei Deputati — IX Commissione",
+      "data": "2007",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/scuola-di-volo-e-aeroporto-a-latina-fazzone-interroga-il-governo/",
+        "https://www.h24notizie.com/2019/03/06/fazzone-bussa-a-toninelli-salvare-aeroporto-militare-di-latina-e-rilanciare-idea-scalo-low-cost/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Camera dei Deputati (banca dati atti IX Commissione, XV legislatura)",
+      "modalita_richiesta": "Ricerca nella banca dati atti della Camera (camera.it, leg. XV, IX Commissione Trasporti, 2007); in subordine richiesta all'ufficio atti"
+    },
+    {
+      "id": "ATTO-2007-SEN",
+      "atto_tipo": "mozione",
+      "oggetto": "Realizzazione dell'aeroporto civile di Latina",
+      "promotore": "sen. Burani Procaccini",
+      "ruolo_partito": "Senatrice (madre del sindaco Procaccini)",
+      "ente_sede": "Senato della Repubblica",
+      "data": "2007",
+      "numero_atto": "",
+      "esito": "non realizzato",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/procaccini-fazzone-fronte-comune-per-realizzare-uno-scalo-aeroportuale-a-latina/",
+        "https://www.latinaquotidiano.it/aeroporto-di-latina-per-i-voli-low-cost-largomento-continua-a-dividere/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Senato della Repubblica (banca dati atti, XV legislatura)",
+      "modalita_richiesta": "Ricerca banca dati Senato (senato.it, leg. XV, atto di sindacato/indirizzo Burani Procaccini, 2007); senato.it blocca i bot → ricerca manuale o richiesta ufficio atti"
+    },
+    {
+      "id": "ATTO-2013-REG-FORTE",
+      "atto_tipo": "interrogazione",
+      "oggetto": "Prima interrogazione che avvia il dibattito sull'ipotesi Latina come terzo scalo (voli low cost)",
+      "promotore": "Enrico Forte",
+      "ruolo_partito": "Consigliere regionale (PD)",
+      "ente_sede": "Consiglio regionale del Lazio",
+      "data": "2013/2014 (da verificare)",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://ilcaffe.tv/articolo/32684/voli-low-cost-a-latina-invece-che-a-ciampino-ri-proposto-l-aeroporto-pontino"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio (banca dati atti, X legislatura)",
+      "modalita_richiesta": "Ricerca banca dati atti del Consiglio regionale del Lazio per firmatario Forte; datazione da confermare"
+    },
+    {
+      "id": "ATTO-2014-GOV-ROSSI",
+      "atto_tipo": "proposta (di governo)",
+      "oggetto": "Aprire il Comani ai voli cargo rendendo la scuola di volo fruibile a fini civili",
+      "promotore": "sottosegretario Rossi (rilanciata da Unindustria Latina)",
+      "ruolo_partito": "Sottosegretario alla Difesa",
+      "ente_sede": "Governo — Ministero della Difesa",
+      "data": "2014",
+      "numero_atto": "",
+      "esito": "senza seguito",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.radioluna.it/news/2014/05/aprire-il-comani-ai-voli-cargo-unindustria-rilancia-la-proposta-del-sottosegretario-rossi/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Ministero della Difesa / atti parlamentari collegati",
+      "modalita_richiesta": "Identificare l'eventuale atto formale (interrogazione/risposta) del sottosegretario Rossi 2014; accesso agli atti al MdD o ricerca banca dati parlamentare"
+    },
+    {
+      "id": "ATTO-2015-CAM-SEL",
+      "atto_tipo": "proposta/atto parlamentare",
+      "oggetto": "Rilancio in Parlamento del progetto di aeroporto civile a Latina Scalo (con richiamo a uno studio di pre-fattibilità esistente)",
+      "promotore": "Zaratti, Bordo, Scotto (SEL)",
+      "ruolo_partito": "Deputati (Sinistra Ecologia Libertà)",
+      "ente_sede": "Camera dei Deputati",
+      "data": "2015",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://ilcaffe.tv/articolo/52804/in-parlamento-il-rilancio-del-progetto-dell-aeroporto-civile-di-latina-scalo"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Camera dei Deputati (banca dati atti, XVII legislatura)",
+      "modalita_richiesta": "Ricerca banca dati Camera per firmatari Zaratti/Bordo/Scotto (2015); confermare tipo/numero atto"
+    },
+    {
+      "id": "ATTO-2015-CAM-MINNUCCI",
+      "atto_tipo": "interrogazione",
+      "oggetto": "Aprire ai voli civili il Comani (e Grosseto, Pratica di Mare) dopo l'incendio di Fiumicino",
+      "promotore": "Emiliano Minnucci",
+      "ruolo_partito": "Deputato (PD)",
+      "ente_sede": "Camera dei Deputati (a Ministeri Trasporti e Interno)",
+      "data": "2015 (dopo incendio Fiumicino, mag. 2015)",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/i-voli-low-cost-di-fiumicino-allaeroporto-comani-di-latina-la-proposta-in-consiglio-regionale/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Camera dei Deputati (banca dati atti, XVII legislatura)",
+      "modalita_richiesta": "Ricerca banca dati Camera per firmatario Minnucci (2015)"
+    },
+    {
+      "id": "ATTO-2015-REG-VALERIANI",
+      "atto_tipo": "mozione/proposta",
+      "oggetto": "Verificare la possibilità di ospitare al Comani i voli low cost nella riorganizzazione di Fiumicino",
+      "promotore": "Massimiliano Valeriani",
+      "ruolo_partito": "Consigliere regionale (PD)",
+      "ente_sede": "Consiglio regionale del Lazio",
+      "data": "2015 (da verificare)",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/i-voli-low-cost-di-fiumicino-allaeroporto-comani-di-latina-la-proposta-in-consiglio-regionale/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio (banca dati atti, X legislatura)",
+      "modalita_richiesta": "Ricerca banca dati Consiglio regionale per firmatario Valeriani; datazione da confermare"
+    },
+    {
+      "id": "ATTO-2017-REG-FORTE",
+      "atto_tipo": "interrogazione",
+      "oggetto": "Farsi parte attiva per valutare la realizzazione di un nuovo sito aeroportuale a Latina per i voli low cost",
+      "promotore": "Enrico Forte",
+      "ruolo_partito": "Consigliere regionale (PD)",
+      "ente_sede": "Consiglio regionale del Lazio (a Presidente Leodori e Giunta)",
+      "data": "2017-03-16",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinacorriere.it/latina-laeroporto-voli-low-cost-la-proposta-uninterrogazione-regionale-forte/",
+        "https://www.latinapress.it/latina/aeroporto-low-cost-latina-forte-presenta-interrogazione-regione/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio (banca dati atti, X legislatura, 2017)",
+      "modalita_richiesta": "Ricerca banca dati atti del Consiglio regionale del Lazio (firmatario Forte, marzo 2017)"
+    },
+    {
+      "id": "ATTO-2017-PROV-ODG",
+      "atto_tipo": "ordine del giorno",
+      "oggetto": "Sostenere la candidatura dell'aeroporto Comani quale terzo scalo del Lazio",
+      "promotore": "cons. Miele, Taddeo, Carnevale",
+      "ruolo_partito": "Consiglieri provinciali (Forza Italia)",
+      "ente_sede": "Consiglio provinciale di Latina",
+      "data": "2017-03",
+      "numero_atto": "",
+      "esito": "approvato all'unanimità",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://ilcaffe.tv/articolo/32684/voli-low-cost-a-latina-invece-che-a-ciampino-ri-proposto-l-aeroporto-pontino"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Provincia di Latina (Segreteria Consiglio provinciale)",
+      "modalita_richiesta": "Accesso agli atti (L. 241/1990) alla Provincia di Latina per l'ordine del giorno 2017; verificare albo pretorio online"
+    },
+    {
+      "id": "ATTO-2017-CAM-FAUTTILLI",
+      "atto_tipo": "interrogazione",
+      "oggetto": "Necessità di realizzare un terzo scalo aeroportuale nel Lazio a Latina",
+      "promotore": "Federico Fauttilli",
+      "ruolo_partito": "Deputato",
+      "ente_sede": "Camera dei Deputati (a Ministero dei Trasporti)",
+      "data": "2017-11-13",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinacorriere.it/latina-terzo-aeroporto-del-lazio-nuova-interrogazione-del-deputato-fauttilli/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Camera dei Deputati (banca dati atti, XVII legislatura)",
+      "modalita_richiesta": "Ricerca banca dati Camera per firmatario Fauttilli (13/11/2017)"
+    },
+    {
+      "id": "ATTO-2018-REG-42",
+      "atto_tipo": "mozione",
+      "oggetto": "Istituzione tavolo tecnico MIT-Regione per il secondo aeroporto di servizio a Fiumicino; verificare il Comani di Latina come scalo low cost",
+      "promotore": "Enrico Forte, Michela Califano",
+      "ruolo_partito": "Consiglieri regionali (PD)",
+      "ente_sede": "Consiglio regionale del Lazio",
+      "data": "2018-07-25",
+      "numero_atto": "mozione 42/2018",
+      "esito": "approvata",
+      "evento_collegato": "EV-2018-001",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/terzo-aeroporto-del-lazio-forte-pd-presenta-uninterrogazione/",
+        "https://www.h24notizie.com/2021/03/25/terzo-scalo-aeroportuale-linterrogazione-di-forte-in-regione/"
+      ],
+      "stato_originale": "trovato",
+      "originale_url": "http://www.consiglio.regione.lazio.it/consiglio-regionale/?id=2712&vw=newsDettaglio",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio",
+      "modalita_richiesta": "Testo integrale firmato: richiesta all'Ufficio atti del Consiglio regionale"
+    },
+    {
+      "id": "ATTO-2019-SEN-FAZZONE",
+      "atto_tipo": "interrogazione",
+      "oggetto": "Scongiurare il trasferimento del 70° Stormo a Grazzanise e destinare Latina a terzo scalo low cost/charter/merci",
+      "promotore": "Claudio Fazzone",
+      "ruolo_partito": "Senatore (Forza Italia)",
+      "ente_sede": "Senato (a Ministri Toninelli e Trenta)",
+      "data": "2019-03-05",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "EV-2019-001",
+      "articoli_fonte": [
+        "https://www.h24notizie.com/2019/03/06/fazzone-bussa-a-toninelli-salvare-aeroporto-militare-di-latina-e-rilanciare-idea-scalo-low-cost/",
+        "https://www.latinacorriere.it/salvare-laeroporto-militare-di-latina-e-rilanciare-lidea-dello-scalo-low-cost-e-merci-linterrogazione-di-fazzone/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Senato della Repubblica (banca dati sindacato ispettivo, XVIII legislatura)",
+      "modalita_richiesta": "Reperire il testo dell'interrogazione dalla banca dati del Senato (leg. XVIII, marzo 2019)"
+    },
+    {
+      "id": "ATTO-2019-COM-TIERO",
+      "atto_tipo": "mozione",
+      "oggetto": "Difesa della Scuola di Volo del 70° Stormo, in opposizione al progetto di aeroporto civile",
+      "promotore": "Enrico Tiero",
+      "ruolo_partito": "Consigliere comunale / vice-portavoce regionale FdI",
+      "ente_sede": "Consiglio comunale di Latina",
+      "data": "2019-03-12",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinacorriere.it/aeroporto-civile-a-latina-scalo-tiero-fratelli-ditalia-si-dissocia-dal-rilancio-del-progetto-meglio-salvare-la-scuola-di-volo/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Comune di Latina (Segreteria Consiglio comunale)",
+      "modalita_richiesta": "Accesso agli atti / albo pretorio del Comune di Latina per la mozione discussa il 12/03/2019"
+    },
+    {
+      "id": "ATTO-2019-COM-GRAZZANISE",
+      "atto_tipo": "mozione",
+      "oggetto": "Scongiurare il trasferimento della scuola di volo da Latina a Grazzanise, impegnando sindaco e giunta",
+      "promotore": "Consiglieri FdI e Forza Italia",
+      "ruolo_partito": "Consiglieri comunali (FdI, FI)",
+      "ente_sede": "Consiglio comunale di Latina",
+      "data": "2019-03-12",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.latinacorriere.it/salvare-laeroporto-militare-di-latina-e-rilanciare-lidea-dello-scalo-low-cost-e-merci-linterrogazione-di-fazzone/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Comune di Latina (Segreteria Consiglio comunale)",
+      "modalita_richiesta": "Accesso agli atti / albo pretorio del Comune di Latina (seduta 12/03/2019)"
+    },
+    {
+      "id": "ATTO-2019-REG-FORTE",
+      "atto_tipo": "mozione",
+      "oggetto": "Istituzione di un tavolo istituzionale per individuare un nuovo scalo del Lazio, valutando il Comani; sblocco dell'iter del terzo aeroporto",
+      "promotore": "Enrico Forte, Michela/Michele Califano",
+      "ruolo_partito": "Consiglieri regionali (PD)",
+      "ente_sede": "Consiglio regionale del Lazio",
+      "data": "2019-10-29",
+      "numero_atto": "",
+      "esito": "approvata",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.h24notizie.com/2019/10/29/aeroporto-di-latina-terzo-scalo-dopo-fiumicino-e-ciampino-si-torna-a-sperare/",
+        "https://ilcaffe.tv/articolo/69001/un-aeroporto-civile-a-latina-depositata-in-regione-una-mozione-bipartisan",
+        "https://www.latinapress.it/latina/approvata-la-mozione-per-nuovo-aeroporto-nel-lazio-torna-ipotesi-latina/",
+        "https://www.latinacorriere.it/scalo-a-latina-lassociazione-pro-aeroporto-occasione-da-non-perdere/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio (banca dati atti, XI legislatura, ott. 2019)",
+      "modalita_richiesta": "Ricerca banca dati atti del Consiglio regionale del Lazio (firmatari Forte/Califano, 29/10/2019)"
+    },
+    {
+      "id": "ATTO-2020-REG-SIMEONE-FORTE",
+      "atto_tipo": "mozione",
+      "oggetto": "Impegnare Zingaretti e la giunta a realizzare un terzo aeroporto regionale usando la struttura esistente a Latina",
+      "promotore": "Giuseppe Simeone, Enrico Forte",
+      "ruolo_partito": "Capogruppo FI e consigliere PD",
+      "ente_sede": "Consiglio regionale del Lazio",
+      "data": "2020-07-01",
+      "numero_atto": "",
+      "esito": "depositata",
+      "evento_collegato": "EV-2020-003",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/laeroporto-di-latina-vola-almeno-in-consiglio-regionale-mozione-bipartisan-forza-italia-e-pd/",
+        "https://ilcaffe.tv/articolo/60684/mozione-in-regione-per-un-nuovo-aeroporto-nel-lazio-torna-l-ipotesi-latina"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio (banca dati atti, XI legislatura, lug. 2020)",
+      "modalita_richiesta": "Ricerca banca dati atti del Consiglio regionale del Lazio (firmatari Simeone/Forte, 1/07/2020)"
+    },
+    {
+      "id": "ATTO-2021-REG-FORTE",
+      "atto_tipo": "interrogazione (risposta immediata)",
+      "oggetto": "Conoscere le iniziative della giunta per individuare il terzo scalo del Lazio (dopo tagli Ciampino e blocco Fiumicino)",
+      "promotore": "Enrico Forte",
+      "ruolo_partito": "Consigliere regionale (PD)",
+      "ente_sede": "Consiglio regionale del Lazio",
+      "data": "2021-03-24",
+      "numero_atto": "",
+      "esito": "",
+      "evento_collegato": "",
+      "articoli_fonte": [
+        "https://www.h24notizie.com/2021/03/25/terzo-scalo-aeroportuale-linterrogazione-di-forte-in-regione/",
+        "https://www.latinaquotidiano.it/terzo-aeroporto-del-lazio-forte-pd-presenta-uninterrogazione/",
+        "https://www.latinaquotidiano.it/aeroporto-civile-a-latina-tiero-e-di-cocco-non-e-priorita/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Consiglio regionale del Lazio (banca dati atti, XI legislatura, mar. 2021)",
+      "modalita_richiesta": "Ricerca banca dati atti del Consiglio regionale del Lazio (firmatario Forte, 24/03/2021)"
+    },
+    {
+      "id": "ATTO-STUDIO-IDS",
+      "atto_tipo": "studio di fattibilità",
+      "oggetto": "Studio di fattibilità del terzo scalo del Lazio a Latina, realizzato dall'associazione 'Aeroporto per Latina' su commissione della società IDS",
+      "promotore": "Associazione 'Aeroporto per Latina' / IDS",
+      "ruolo_partito": "Associazione civica / società di ingegneria",
+      "ente_sede": "—",
+      "data": "(anni 2000, da datare)",
+      "numero_atto": "",
+      "esito": "esito positivo (secondo i promotori)",
+      "evento_collegato": "EV-2006-001",
+      "articoli_fonte": [
+        "https://www.latinaquotidiano.it/aeroporto-latina-la-cisl-appoggia-la-proposta-esiste-gia-un-piano-di-fattibilita-basta-attuarlo/",
+        "https://www.latinaquotidiano.it/cecere-cisl-facciamo-volare-lo-sviluppo-si-al-terzo-scalo-aeroportuale-del-lazio-a-latina/"
+      ],
+      "stato_originale": "OFFLINE-DA-REPERIRE",
+      "originale_url": "",
+      "pdf_locale": "",
+      "ente_detentore": "Associazione 'Aeroporto per Latina' / società IDS",
+      "modalita_richiesta": "Richiesta diretta all'associazione e/o a IDS per copia dello studio; datazione e committenza da confermare"
+    }
+  ]
+}

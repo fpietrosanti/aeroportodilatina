@@ -93,6 +93,7 @@ def pdf_map() -> dict:
 def page(title: str, body: str) -> str:
     nav = ('<nav class="top"><a href="index.html">Home</a>'
            '<a href="cronistoria.html">Cronistoria</a>'
+           '<a href="atti.html">Atti</a>'
            '<a href="stakeholder.html">Stakeholder</a>'
            '<a href="da-reperire.html">Da reperire</a></nav>')
     return f"""<!doctype html><html lang="it"><head><meta charset="utf-8">
@@ -108,15 +109,20 @@ apri una issue sul <a href="https://github.com/fpietrosanti/aeroportodilatina">r
 </body></html>"""
 
 
-def build_index(cron, stake) -> str:
+def build_index(cron, stake, atti=None) -> str:
     n = len(cron["eventi"])
     off = sum(1 for x in cron["eventi"] if x["stato_reperimento"] == "OFFLINE-DA-REPERIRE")
     fav = sum(1 for x in stake["stakeholder"] if x["posizione"] == "FAVOREVOLE")
     con = sum(1 for x in stake["stakeholder"] if x["posizione"] == "CONTRARIO")
+    n_atti = len(atti["atti"]) if atti else 0
+    card_atti = (f'<div class="card"><h3><a href="atti.html">📑 Registro atti</a></h3>'
+                 f'<p>{n_atti} atti istituzionali (mozioni, interrogazioni, ordini del giorno) '
+                 f'citati dagli articoli, con lo stato dell\'originale.</p></div>') if atti else ""
     body = f"""<p>{e(cron['meta']['descrizione'])}</p>
 <div class="cards">
 <div class="card"><h3><a href="cronistoria.html">📜 Cronistoria</a></h3>
 <p>{n} eventi verificati, dal 1938 al 2026, con fonti e copie PDF archiviate.</p></div>
+{card_atti}
 <div class="card"><h3><a href="stakeholder.html">👥 Mappa stakeholder</a></h3>
 <p>{len(stake['stakeholder'])} soggetti: {fav} favorevoli, {con} contrari, e posizioni ambivalenti.</p></div>
 <div class="card"><h3><a href="da-reperire.html">🗂️ Documenti da reperire</a></h3>
@@ -179,6 +185,49 @@ def build_stakeholder(stake) -> str:
     return page("Stakeholder", "".join(out))
 
 
+def build_atti(atti, pm) -> str:
+    lst = atti["atti"]
+    def keyf(a):
+        return (a.get("data") or "9999")
+    lst = sorted(lst, key=keyf)
+    trovati = sum(1 for a in lst if a["stato_originale"] == "trovato")
+    out = [f"<h1>Registro degli atti istituzionali</h1>",
+           f"<p class='meta'>{len(lst)} atti · originali reperiti: {trovati} · "
+           f"da reperire: {len(lst)-trovati}</p>",
+           f"<p>{e(atti['meta']['descrizione'])}</p>"]
+    for a in lst:
+        found = a["stato_originale"] == "trovato"
+        badge = ('<span class="badge b-fav">ORIGINALE TROVATO</span>' if found
+                 else '<span class="badge b-con">DA REPERIRE OFFLINE</span>')
+        cls = "event" + ("" if found else " off")
+        # articoli fonte
+        fonti = ""
+        if a.get("articoli_fonte"):
+            links = " · ".join(f'<a href="{e(u)}" target="_blank" rel="noopener">fonte</a>'
+                               for u in a["articoli_fonte"])
+            fonti = f'<div class="fonti"><strong>Articoli che lo citano ({len(a["articoli_fonte"])}):</strong> {links}</div>'
+        # originale o reperimento
+        if found:
+            orig = f'<div class="fonti"><strong>Originale:</strong> '
+            if a.get("originale_url"):
+                orig += f'<a href="{e(a["originale_url"])}" target="_blank">atto</a> '
+            if a.get("pdf_locale"):
+                orig += f'<a class="pdf" href="archive/{e(a["pdf_locale"])}" target="_blank">📄 PDF</a>'
+            orig += "</div>"
+        else:
+            orig = (f'<div class="reperire">🔴 <strong>Da reperire</strong> — '
+                    f'{e(a.get("ente_detentore",""))}<br><em>{e(a.get("modalita_richiesta",""))}</em></div>')
+        ev = f' · <a href="cronistoria.html">{e(a["evento_collegato"])}</a>' if a.get("evento_collegato") else ""
+        num = f' · {e(a["numero_atto"])}' if a.get("numero_atto") else ""
+        esito = f' · esito: {e(a["esito"])}' if a.get("esito") else ""
+        out.append(f"""<article class="{cls}">
+<h2>{e(a['atto_tipo'])} — {e(a['oggetto'])} {badge}</h2>
+<div class="meta">📅 {e(a['data'])}{num}{esito} · <strong>{e(a['ente_sede'])}</strong>{ev}</div>
+<div class="meta"><strong>Promotore:</strong> {e(a['promotore'])} ({e(a['ruolo_partito'])})</div>
+{fonti}{orig}</article>""")
+    return page("Atti", "".join(out))
+
+
 def build_da_reperire(cron) -> str:
     off = [x for x in cron["eventi"] if x["stato_reperimento"] == "OFFLINE-DA-REPERIRE"]
     out = [f"<h1>Documenti da reperire</h1><p class='meta'>{len(off)} voci offline · piano di acquisizione</p>"]
@@ -195,13 +244,16 @@ def build_da_reperire(cron) -> str:
 def main() -> None:
     cron = load(DATA / "cronistoria.json")
     stake = load(DATA / "stakeholder.json")
+    atti = load(DATA / "atti.json") if (DATA / "atti.json").exists() else None
     pm = pdf_map()
-    (ROOT / "index.html").write_text(build_index(cron, stake), encoding="utf-8")
+    (ROOT / "index.html").write_text(build_index(cron, stake, atti), encoding="utf-8")
     (ROOT / "cronistoria.html").write_text(build_cronistoria(cron, pm), encoding="utf-8")
     (ROOT / "stakeholder.html").write_text(build_stakeholder(stake), encoding="utf-8")
     (ROOT / "da-reperire.html").write_text(build_da_reperire(cron), encoding="utf-8")
+    if atti:
+        (ROOT / "atti.html").write_text(build_atti(atti, pm), encoding="utf-8")
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
-    print("Sito generato: index.html, cronistoria.html, stakeholder.html, da-reperire.html (+ .nojekyll)")
+    print("Sito generato: index, cronistoria, atti, stakeholder, da-reperire (+ .nojekyll)")
 
 
 if __name__ == "__main__":
