@@ -20,13 +20,13 @@
 - **Citazione:** ««Nel '95 Paride Martella, allora presidente della Provincia di Latina, lancia l'idea di fare del Comani uno scalo anche civile.»»
 - **Fonti:** [Fatto a Latina](https://fattoalatina.it/2021/03/23/a-latina-se-non-hai-idee-chiedi-un-aeroporto-civile/); [Latina Quotidiano](https://www.latinaquotidiano.it/la-bufala-dellaeroporto-civile-di-latina-e-la-sindrome-di-icaro/)
 
-## 1996/1997 — Senato (XIII legislatura): priorità alla realizzazione dell'aeroporto di Latina come scalo ausiliario a Fiumicino e Ciampino  `EV-1996-001`
+## 1996-12-03 — Senato (XIII leg.): emendamenti alla finanziaria danno priorità all'aeroporto civile di Latina come scalo ausiliario a Fiumicino e Ciampino  `EV-1996-001`
 
-- **Categoria:** atto parlamentare  ·  **Tema:** civile-passeggeri | terzo-scalo  ·  **Esito:** senza seguito attuativo  ·  **Affidabilità:** alta
-- **Soggetti:** Senato della Repubblica (Commissioni, XIII legislatura)
-- **Descrizione:** In un atto delle Commissioni del Senato (XIII legislatura, bollettino Giunte e Commissioni n. 69) si indica come priorità 'la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino'. È la più antica fonte ISTITUZIONALE finora reperita sul tema, coeva della proposta Martella. Data esatta della seduta e commissione da confermare (senato.it blocca il fetch automatico).
-- **Citazione:** ««...priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino.»»
-- **Fonti:** [Senato della Repubblica](https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69)
+- **Categoria:** atto parlamentare (emendamenti)  ·  **Tema:** civile-passeggeri | terzo-scalo | cargo  ·  **Esito:** senza seguito attuativo  ·  **Affidabilità:** alta
+- **Soggetti:** Senato della Repubblica (Commissioni 5ª e 6ª riunite, XIII leg.) | sen. Riccardo Pedrizzi | sen. Reccia | sen. Moro | sen. A. Morena | sen. Lisi | sen. Florino | sen. Curto | sen. Pace | sen. Battaglia | sen. De Santis | sen. Pontone
+- **Descrizione:** Nella seduta del 3 dicembre 1996 delle Commissioni riunite 5ª (Bilancio) e 6ª (Finanze e tesoro) del Senato (69° Resoconto Giunte e Commissioni, XIII legislatura), diversi senatori presentano emendamenti che pongono come priorità la progettazione e realizzazione dell'aeroporto di Latina quale scalo ausiliario/complementare a Fiumicino e Ciampino. Em. 36.12 (Pedrizzi, Reccia): «...hanno priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino, in attuazione di uno specifico programma operativo di tutela ambientale» (disinquinamento acustico). Em. 36.32 (Moro, A. Morena): aeroporto di Latina 'nuovo scalo con funzioni ausiliarie' ai sensi dell'art. 2 c. 42 della L. 28 dicembre 1995 n. 549 e del Piano Generale dei Trasporti (DPR 29 agosto 1991, agg. GU 6 marzo 1996). Em. 36.10 (Pedrizzi, Reccia, Lisi, De Santis, Pontone, Florino, Curto, Pace, Battaglia): collega l'«Aeroporto commerciale nella zona di Latina Scalo» al Centro Intermodale e alla Cisterna-Valmontone. È la più antica fonte ISTITUZIONALE sul tema, coeva della proposta Martella.
+- **Citazione:** ««...hanno priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino, in attuazione di uno specifico programma operativo di tutela ambientale.» (Em. 36.12, sen. Pedrizzi, Reccia)»
+- **Fonti:** [Senato della Repubblica](https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69) ([📄 copia PDF](../archive/pdf/senato_1996-12-03_boll69-resoconto-commissioni-5e6-riunite_latina.pdf))
 
 ## 1995/2005 — LACUNA: copertura stampa e atti 1995-2005 (da reperire offline)  `EV-1990s-001` 🔴 DA REPERIRE
 

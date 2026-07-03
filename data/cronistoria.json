@@ -61,23 +61,23 @@
     },
     {
       "id": "EV-1996-001",
-      "data": "1996/1997",
-      "data_precisione": "anno-incerto",
-      "titolo_evento": "Senato (XIII legislatura): priorità alla realizzazione dell'aeroporto di Latina come scalo ausiliario a Fiumicino e Ciampino",
-      "descrizione": "In un atto delle Commissioni del Senato (XIII legislatura, bollettino Giunte e Commissioni n. 69) si indica come priorità 'la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino'. È la più antica fonte ISTITUZIONALE finora reperita sul tema, coeva della proposta Martella. Data esatta della seduta e commissione da confermare (senato.it blocca il fetch automatico).",
-      "soggetti": ["Senato della Repubblica (Commissioni, XIII legislatura)"],
-      "categoria_evento": "atto parlamentare",
-      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "data": "1996-12-03",
+      "data_precisione": "giorno",
+      "titolo_evento": "Senato (XIII leg.): emendamenti alla finanziaria danno priorità all'aeroporto civile di Latina come scalo ausiliario a Fiumicino e Ciampino",
+      "descrizione": "Nella seduta del 3 dicembre 1996 delle Commissioni riunite 5ª (Bilancio) e 6ª (Finanze e tesoro) del Senato (69° Resoconto Giunte e Commissioni, XIII legislatura), diversi senatori presentano emendamenti che pongono come priorità la progettazione e realizzazione dell'aeroporto di Latina quale scalo ausiliario/complementare a Fiumicino e Ciampino. Em. 36.12 (Pedrizzi, Reccia): «...hanno priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino, in attuazione di uno specifico programma operativo di tutela ambientale» (disinquinamento acustico). Em. 36.32 (Moro, A. Morena): aeroporto di Latina 'nuovo scalo con funzioni ausiliarie' ai sensi dell'art. 2 c. 42 della L. 28 dicembre 1995 n. 549 e del Piano Generale dei Trasporti (DPR 29 agosto 1991, agg. GU 6 marzo 1996). Em. 36.10 (Pedrizzi, Reccia, Lisi, De Santis, Pontone, Florino, Curto, Pace, Battaglia): collega l'«Aeroporto commerciale nella zona di Latina Scalo» al Centro Intermodale e alla Cisterna-Valmontone. È la più antica fonte ISTITUZIONALE sul tema, coeva della proposta Martella.",
+      "soggetti": ["Senato della Repubblica (Commissioni 5ª e 6ª riunite, XIII leg.)", "sen. Riccardo Pedrizzi", "sen. Reccia", "sen. Moro", "sen. A. Morena", "sen. Lisi", "sen. Florino", "sen. Curto", "sen. Pace", "sen. Battaglia", "sen. De Santis", "sen. Pontone"],
+      "categoria_evento": "atto parlamentare (emendamenti)",
+      "tema": ["civile-passeggeri", "terzo-scalo", "cargo"],
       "esito": "senza seguito attuativo",
       "affidabilita": "alta",
       "fonti": [
-        {"testata": "Senato della Repubblica", "autore": "", "data": "XIII legislatura", "url": "https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69", "quality": "primaria-istituzionale"}
+        {"testata": "Senato della Repubblica", "autore": "", "data": "1996-12-03", "url": "https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69", "quality": "primaria-istituzionale"}
       ],
-      "estratto": "«...priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino.»",
-      "stato_reperimento": "online-da-archiviare",
-      "ente_detentore": "Senato della Repubblica (banca dati atti, XIII legislatura, bollettino Commissioni n. 69)",
-      "modalita_richiesta": "Reperire seduta e commissione esatte dalla banca dati del Senato; archiviare la pagina via Chrome/archive.today (fetch programmatico bloccato)",
-      "note_reperimento": "FONTE ISTITUZIONALE PRIMARIA più antica. Individuata via Google date-search 1995-2000. Confermare data/commissione/firmatari."
+      "estratto": "«...hanno priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino, in attuazione di uno specifico programma operativo di tutela ambientale.» (Em. 36.12, sen. Pedrizzi, Reccia)",
+      "stato_reperimento": "archiviato",
+      "ente_detentore": "Senato della Repubblica (69° Resoconto Giunte e Commissioni, XIII leg., seduta 3/12/1996)",
+      "modalita_richiesta": "",
+      "note_reperimento": "FONTE ISTITUZIONALE PRIMARIA più antica. PDF fornito dall'utente e archiviato localmente. Reperibile via Google > Strumenti > intervallo date 1/1/1995-1/1/2000 su \"aeroporto di latina\" (risultato: 69° RESOCONTO, senato.it). Da approfondire l'esito degli emendamenti nel testo di legge (collegato/finanziaria 1997)."
     },
     {
       "id": "EV-1990s-001",

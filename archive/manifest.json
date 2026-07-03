@@ -189,5 +189,16 @@
     "hash": "ead11c2c94",
     "stato": "errore",
     "note": "challenge/bot-wall: copia via archive.today da fare"
+  },
+  "senato1996boll69": {
+    "url": "https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69",
+    "titolo": "69o Resoconto Giunte e Commissioni - Commissioni 5a e 6a riunite (Senato, XIII leg.)",
+    "testata": "Senato della Repubblica",
+    "data_articolo": "1996-12-03",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/senato_1996-12-03_boll69-resoconto-commissioni-5e6-riunite_latina.pdf",
+    "hash": "senato1996boll69",
+    "stato": "ok",
+    "note": "PDF fornito dall utente (Downloads/13908_13908.pdf); reperito via Google date-search 1995-2000"
   }
 }

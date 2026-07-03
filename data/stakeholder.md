@@ -2,11 +2,14 @@
 
 > Chi si è espresso a favore, chi contro, chi in modo ambivalente sulla riconversione/uso civile del Comani. Strato derivato dalla cronistoria: la colonna 'eventi' rinvia agli ID di cronistoria.json.
 
-## 🟢 FAVOREVOLE (10)
+## 🟢 FAVOREVOLE (11)
 
 - **Paride Martella** — Presidente della Provincia di Latina (1995-2004), centrodestra · _1995-1996_  
   Nel 1995/96 lancia per primo l'idea di affiancare un uso civile all'aeroporto militare Comani. Origine del dibattito.  
   ↳ eventi: EV-1995-001
+- **Senatori proponenti XIII leg. (Pedrizzi, Reccia, Moro, Morena, Lisi, Florino, Curto, Pace, Battaglia, De Santis, Pontone)** — Senatori (per lo più Alleanza Nazionale), Alleanza Nazionale (e altri) · _1996_  
+  3 dic 1996: emendamenti alla finanziaria per dare priorità all'aeroporto di Latina come scalo ausiliario/complementare a Fiumicino e Ciampino, legato a Centro Intermodale e Cisterna-Valmontone.  
+  ↳ eventi: EV-1996-001
 - **Michela Califano** — Consigliera regionale Lazio, Partito Democratico · _2018_  
   Prima firmataria (con Forte) della mozione 42/2018 per individuare il Comani come scalo low cost.  
   ↳ eventi: EV-2018-001

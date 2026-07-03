@@ -18,6 +18,17 @@
       "eventi": ["EV-1995-001"]
     },
     {
+      "soggetto": "Senatori proponenti XIII leg. (Pedrizzi, Reccia, Moro, Morena, Lisi, Florino, Curto, Pace, Battaglia, De Santis, Pontone)",
+      "ruolo": "Senatori (per lo più Alleanza Nazionale)",
+      "ente": "Senato della Repubblica",
+      "categoria": "politico",
+      "partito": "Alleanza Nazionale (e altri)",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "3 dic 1996: emendamenti alla finanziaria per dare priorità all'aeroporto di Latina come scalo ausiliario/complementare a Fiumicino e Ciampino, legato a Centro Intermodale e Cisterna-Valmontone.",
+      "periodo": "1996",
+      "eventi": ["EV-1996-001"]
+    },
+    {
       "soggetto": "Michela Califano",
       "ruolo": "Consigliera regionale Lazio",
       "ente": "Consiglio Regionale del Lazio",
