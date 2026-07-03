@@ -2,7 +2,7 @@
 
 > Archivio cronologico primario, verificato, delle vicende e delle proposte di riconversione/uso civile dell'aeroporto militare 'Enrico Comani' di Latina, dalla fine degli anni '90 a oggi. Ogni voce ha un ID stabile e citabile. L'analisi derivata (mappa stakeholder, schede tematiche, sito, voce Wikipedia) rinvia a questi ID.
 
-*Ultimo aggiornamento: 2026-07-03. 20 voci. Fonte di verita': `cronistoria.json` (non modificare i .md/.csv generati).*
+*Ultimo aggiornamento: 2026-07-03. 21 voci. Fonte di verita': `cronistoria.json` (non modificare i .md/.csv generati).*
 
 ## 1938-03-28 — Inaugurazione dell'aeroporto (contesto infrastrutturale)  `EV-INFRA-001`
 
@@ -19,6 +19,14 @@
 - **Descrizione:** Nel 1995 (una fonte indica il 1996) Paride Martella, presidente della Provincia di Latina (in carica 1995-2004), lancia l'idea di affiancare all'aeroporto militare Comani un uso civile. È il primo atto documentato del dibattito sullo scalo civile, all'origine del 'se ne parla da oltre 30 anni'. Non se ne fece nulla.
 - **Citazione:** ««Nel '95 Paride Martella, allora presidente della Provincia di Latina, lancia l'idea di fare del Comani uno scalo anche civile.»»
 - **Fonti:** [Fatto a Latina](https://fattoalatina.it/2021/03/23/a-latina-se-non-hai-idee-chiedi-un-aeroporto-civile/); [Latina Quotidiano](https://www.latinaquotidiano.it/la-bufala-dellaeroporto-civile-di-latina-e-la-sindrome-di-icaro/)
+
+## 1996/1997 — Senato (XIII legislatura): priorità alla realizzazione dell'aeroporto di Latina come scalo ausiliario a Fiumicino e Ciampino  `EV-1996-001`
+
+- **Categoria:** atto parlamentare  ·  **Tema:** civile-passeggeri | terzo-scalo  ·  **Esito:** senza seguito attuativo  ·  **Affidabilità:** alta
+- **Soggetti:** Senato della Repubblica (Commissioni, XIII legislatura)
+- **Descrizione:** In un atto delle Commissioni del Senato (XIII legislatura, bollettino Giunte e Commissioni n. 69) si indica come priorità 'la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino'. È la più antica fonte ISTITUZIONALE finora reperita sul tema, coeva della proposta Martella. Data esatta della seduta e commissione da confermare (senato.it blocca il fetch automatico).
+- **Citazione:** ««...priorità la progettazione e la realizzazione dell'aeroporto di Latina, quale scalo ausiliario e complementare a quelli di Fiumicino e di Ciampino.»»
+- **Fonti:** [Senato della Repubblica](https://www.senato.it/uri-res/N2Ls?urn:nir:senato.repubblica;commissioni:bollettino:13.legislatura;69)
 
 ## 1995/2005 — LACUNA: copertura stampa e atti 1995-2005 (da reperire offline)  `EV-1990s-001` 🔴 DA REPERIRE
 

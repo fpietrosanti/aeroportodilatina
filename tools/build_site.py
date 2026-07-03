@@ -42,6 +42,8 @@ main{max-width:900px;margin:0 auto;padding:1.6rem 1.2rem 3rem}
 .event{background:var(--card);border:1px solid var(--bordo);border-left:4px solid var(--blu2);
 border-radius:8px;padding:1rem 1.2rem;margin:1rem 0}
 .event.off{border-left-color:var(--rosso)}
+.event.inst{border-left-color:#7b5cd6;background:#faf9ff}
+.badge-inst{display:inline-block;font-size:.7rem;font-weight:700;padding:.15rem .5rem;border-radius:4px;background:#7b5cd6;color:#fff;vertical-align:middle}
 .event h2{margin:.1rem 0 .5rem;font-size:1.12rem}
 .event .id{font:600 .72rem/1 monospace;color:var(--muted);background:#eef2f6;padding:.2rem .4rem;border-radius:4px}
 .meta{font-size:.85rem;color:var(--muted);margin:.3rem 0}
@@ -57,6 +59,19 @@ footer{max-width:900px;margin:0 auto;padding:1.5rem 1.2rem 3rem;color:var(--mute
 
 BADGE = {"FAVOREVOLE": "b-fav", "CONTRARIO": "b-con",
          "NEUTRO-CONDIZIONATO": "b-neu", "AMBIVALENTE-MUTEVOLE": "b-amb"}
+
+# Domini di enti pubblici -> fonte istituzionale (da evidenziare)
+INST_DOMAINS = ("senato.it", "camera.it", "regione.lazio.it", "comune.latina.it",
+                "provincia.latina.it", "enac.gov.it", "gazzettaufficiale.it",
+                "governo.it", "mit.gov.it", "pianomobilitalazio.it", "parlamento.it")
+
+
+def is_institutional(fonti) -> bool:
+    for s in fonti or []:
+        u = (s.get("url") or "").lower()
+        if any(d in u for d in INST_DOMAINS) or "istituzional" in (s.get("quality") or ""):
+            return True
+    return False
 
 
 def e(s) -> str:
@@ -118,6 +133,7 @@ def build_cronistoria(cron, pm) -> str:
     rows = []
     for x in cron["eventi"]:
         off = x["stato_reperimento"] == "OFFLINE-DA-REPERIRE"
+        inst = is_institutional(x.get("fonti"))
         fonti = []
         for s in x.get("fonti", []):
             if not s.get("url"):
@@ -133,8 +149,10 @@ def build_cronistoria(cron, pm) -> str:
             rep = (f'<div class="reperire">🔴 <strong>Da reperire</strong> — '
                    f'{e(x.get("ente_detentore",""))}<br><em>{e(x.get("modalita_richiesta",""))}</em></div>')
         sog = f'<div class="meta"><strong>Soggetti:</strong> {e(" · ".join(x.get("soggetti",[])))}</div>' if x.get("soggetti") else ""
-        rows.append(f"""<article class="event{' off' if off else ''}">
-<h2>{e(x['titolo_evento'])} <span class="id">{e(x['id'])}</span></h2>
+        cls = "event" + (" off" if off else "") + (" inst" if inst else "")
+        inst_badge = ' <span class="badge-inst">🏛️ FONTE ISTITUZIONALE</span>' if inst else ""
+        rows.append(f"""<article class="{cls}">
+<h2>{e(x['titolo_evento'])} <span class="id">{e(x['id'])}</span>{inst_badge}</h2>
 <div class="meta">📅 {e(x['data'])} · {e(x['categoria_evento'])} · esito: {e(x['esito'])} · affidabilità: {e(x['affidabilita'])}</div>
 {sog}<p>{e(x['descrizione'])}</p>{quote}{fonti_html}{rep}</article>""")
     body = f"<h1>Cronistoria</h1><p class='meta'>{len(cron['eventi'])} eventi · ultimo aggiornamento {e(cron['meta']['ultimo_aggiornamento'])}</p>" + "".join(rows)
