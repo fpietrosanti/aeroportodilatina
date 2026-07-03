@@ -279,6 +279,30 @@ def build_rassegna(pm) -> str:
     return page("Rassegna stampa", "".join(out))
 
 
+BASE_URL = "https://aeroportolatina.it"
+
+
+def build_sitemap(lastmod):
+    """sitemap.xml con le pagine HTML e i PDF archiviati (rigenerata a ogni build)."""
+    pages = [("", "1.0"), ("cronistoria.html", "0.9"), ("atti.html", "0.9"),
+             ("rassegna-stampa.html", "0.8"), ("stakeholder.html", "0.7"),
+             ("da-reperire.html", "0.6")]
+    entries = [(f"{BASE_URL}/{p}", lastmod, prio) for p, prio in pages]
+    if MANIFEST.exists():
+        m = json.loads(MANIFEST.read_text(encoding="utf-8"))
+        for v in sorted(m.values(), key=lambda x: x.get("file_pdf", "")):
+            if v.get("stato") == "ok" and v.get("file_pdf"):
+                d = (v.get("data_archiviazione") or lastmod)[:10]
+                entries.append((f"{BASE_URL}/archive/{v['file_pdf']}", d, "0.4"))
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, mod, prio in entries:
+        out.append(f"  <url><loc>{e(loc)}</loc>"
+                   f"<lastmod>{e(mod)}</lastmod><priority>{prio}</priority></url>")
+    out.append("</urlset>")
+    return "\n".join(out) + "\n", len(entries)
+
+
 def build_da_reperire(cron) -> str:
     off = [x for x in cron["eventi"] if x["stato_reperimento"] == "OFFLINE-DA-REPERIRE"]
     out = [f"<h1>Documenti da reperire</h1><p class='meta'>{len(off)} voci offline · piano di acquisizione</p>"]
@@ -304,8 +328,14 @@ def main() -> None:
     if atti:
         (ROOT / "atti.html").write_text(build_atti(atti, pm), encoding="utf-8")
     (ROOT / "rassegna-stampa.html").write_text(build_rassegna(pm), encoding="utf-8")
+    lastmod = cron["meta"].get("ultimo_aggiornamento", "")
+    sitemap, n_url = build_sitemap(lastmod)
+    (ROOT / "sitemap.xml").write_text(sitemap, encoding="utf-8")
+    (ROOT / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {BASE_URL}/sitemap.xml\n", encoding="utf-8")
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
-    print("Sito generato: index, cronistoria, atti, rassegna-stampa, stakeholder, da-reperire (+ .nojekyll)")
+    print(f"Sito generato: index, cronistoria, atti, rassegna-stampa, stakeholder, "
+          f"da-reperire, sitemap.xml ({n_url} url), robots.txt (+ .nojekyll)")
 
 
 if __name__ == "__main__":
