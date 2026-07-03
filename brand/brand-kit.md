@@ -5,9 +5,9 @@ Identità visiva del progetto. Tutti gli asset sono **rigenerabili**:
 
 ## Logo
 
-Concept **"Torre e volo"**: la torre civica razionalista di Latina (città di
-fondazione) che spicca il volo — una rondine dorata sale lungo la traiettoria.
-Unisce identità cittadina e aspirazione aeroportuale.
+Concept **"Monogramma L in decollo"**: la **L** di Latina il cui piede diventa una
+**pista** con la mezzeria tratteggiata, da cui un **aereo dorato decolla**. Minimale,
+moderno, "app-icon" — riconoscibile anche a piccole dimensioni.
 
 Varianti in `brand/logo/`:
 | File | Uso |
