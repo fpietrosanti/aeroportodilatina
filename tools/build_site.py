@@ -14,8 +14,10 @@ Output:
 """
 from __future__ import annotations
 
+import csv
 import html
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -53,6 +55,8 @@ border-radius:8px;padding:1rem 1.2rem;margin:1rem 0}
 .fonti{font-size:.9rem;margin-top:.4rem}.fonti .pdf{font-weight:600}
 .reperire{background:#fff6f5;border:1px solid #f2d0cc;border-radius:6px;padding:.5rem .8rem;margin-top:.5rem;font-size:.88rem}
 .group{margin:1.6rem 0 .6rem;font-size:1.2rem}
+.rass{padding:.35rem 0;border-bottom:1px solid var(--bordo);font-size:.95rem}
+.rass .id{color:var(--muted);font-family:monospace;font-size:.8rem;margin-right:.3rem}
 footer{max-width:900px;margin:0 auto;padding:1.5rem 1.2rem 3rem;color:var(--muted);font-size:.82rem;border-top:1px solid var(--bordo)}
 .disclaimer{background:#fffbe6;border:1px solid #f0e4a8;border-radius:6px;padding:.7rem .9rem;font-size:.85rem;margin-top:1rem}
 """
@@ -94,6 +98,7 @@ def page(title: str, body: str) -> str:
     nav = ('<nav class="top"><a href="index.html">Home</a>'
            '<a href="cronistoria.html">Cronistoria</a>'
            '<a href="atti.html">Atti</a>'
+           '<a href="rassegna-stampa.html">Rassegna stampa</a>'
            '<a href="stakeholder.html">Stakeholder</a>'
            '<a href="da-reperire.html">Da reperire</a></nav>')
     return f"""<!doctype html><html lang="it"><head><meta charset="utf-8">
@@ -228,6 +233,52 @@ def build_atti(atti, pm) -> str:
     return page("Atti", "".join(out))
 
 
+def _data_articolo(url, riga):
+    if riga.get("data"):
+        return riga["data"][:10]
+    m = re.search(r"/(20\d\d)/(\d\d)/(\d\d)/", url)
+    if m:
+        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+    m = re.search(r"/(20\d\d)/(\d\d)/", url)
+    if m:
+        return f"{m.group(1)}-{m.group(2)}"
+    m = re.search(r"-(20\d\d)\.html", url) or re.search(r"(20\d\d)", url)
+    return m.group(1) if m else ""
+
+
+def build_rassegna(pm) -> str:
+    src = DATA / "fonti_triage.csv"
+    if not src.exists():
+        return page("Rassegna stampa", "<h1>Rassegna stampa</h1><p>Corpus non ancora generato.</p>")
+    core = [r for r in csv.DictReader(src.open(encoding="utf-8-sig"))
+            if r.get("categoria") == "core"]
+    for r in core:
+        r["_data"] = _data_articolo(r["url"], r)
+    # raggruppa per testata
+    testate = {}
+    for r in core:
+        testate.setdefault(r.get("testata") or "—", []).append(r)
+    n_pdf = sum(1 for r in core if pm.get(r["url"]))
+    out = [f"<h1>Rassegna stampa</h1>",
+           f"<p class='meta'>{len(core)} articoli sul tema (categoria core) · "
+           f"{n_pdf} con copia PDF archiviata · {len(testate)} testate</p>",
+           "<p>Corpus completo degli articoli sul filone dell'aeroporto civile di Latina. "
+           "Il raggruppamento per argomento (fonte principale + fonti che riprendono lo "
+           "stesso fatto) è nelle pagine <a href='atti.html'>Atti</a> e "
+           "<a href='cronistoria.html'>Cronistoria</a>.</p>"]
+    for testata in sorted(testate, key=lambda t: -len(testate[t])):
+        arts = sorted(testate[testata], key=lambda r: r["_data"] or "0", reverse=True)
+        out.append(f'<h2 class="group">{e(testata)} <span class="meta">({len(arts)})</span></h2>')
+        for r in arts:
+            pdf = pm.get(r["url"])
+            pdflink = f' · <a class="pdf" href="{e(pdf)}" target="_blank">📄 PDF</a>' if pdf else ""
+            data = f'<span class="id">{e(r["_data"])}</span> ' if r["_data"] else ""
+            titolo = e(r.get("titolo") or r["url"])[:160]
+            out.append(f'<div class="rass">{data}<a href="{e(r["url"])}" target="_blank" '
+                       f'rel="noopener">{titolo}</a>{pdflink}</div>')
+    return page("Rassegna stampa", "".join(out))
+
+
 def build_da_reperire(cron) -> str:
     off = [x for x in cron["eventi"] if x["stato_reperimento"] == "OFFLINE-DA-REPERIRE"]
     out = [f"<h1>Documenti da reperire</h1><p class='meta'>{len(off)} voci offline · piano di acquisizione</p>"]
@@ -252,8 +303,9 @@ def main() -> None:
     (ROOT / "da-reperire.html").write_text(build_da_reperire(cron), encoding="utf-8")
     if atti:
         (ROOT / "atti.html").write_text(build_atti(atti, pm), encoding="utf-8")
+    (ROOT / "rassegna-stampa.html").write_text(build_rassegna(pm), encoding="utf-8")
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
-    print("Sito generato: index, cronistoria, atti, stakeholder, da-reperire (+ .nojekyll)")
+    print("Sito generato: index, cronistoria, atti, rassegna-stampa, stakeholder, da-reperire (+ .nojekyll)")
 
 
 if __name__ == "__main__":

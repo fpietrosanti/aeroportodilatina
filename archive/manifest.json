@@ -211,5 +211,645 @@
     "hash": "regionelazio2022sistaero",
     "stato": "ok",
     "note": "Latina citata solo come scalo militare"
+  },
+  "79c7fcec41": {
+    "url": "https://www.h24notizie.com/2021/04/03/aeroporto-civile-tiero-non-e-una-priorita-pensiamo-alle-altre-infrastrutture/",
+    "titolo": "",
+    "testata": "h24notizie.com",
+    "data_articolo": "2021-04-03",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/h24notizie-com_2021-04-03_2021-04-03-aeroporto-civile-tiero-non-e-una-priorita-pensiam_79c7fcec41.pdf",
+    "hash": "79c7fcec41",
+    "stato": "ok"
+  },
+  "23a095d774": {
+    "url": "https://www.h24notizie.com/2019/11/02/la-lega-interviene-sul-progetto-dellaeroporto-civile/",
+    "titolo": "",
+    "testata": "h24notizie.com",
+    "data_articolo": "2019-11-02",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/h24notizie-com_2019-11-02_2019-11-02-la-lega-interviene-sul-progetto-dellaeroporto-civ_23a095d774.pdf",
+    "hash": "23a095d774",
+    "stato": "ok"
+  },
+  "f260d4d068": {
+    "url": "https://www.h24notizie.com/2019/10/29/aeroporto-di-latina-terzo-scalo-dopo-fiumicino-e-ciampino-si-torna-a-sperare/",
+    "titolo": "",
+    "testata": "h24notizie.com",
+    "data_articolo": "2019-10-29",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/h24notizie-com_2019-10-29_2019-10-29-aeroporto-di-latina-terzo-scalo-dopo-fiumicino-e-_f260d4d068.pdf",
+    "hash": "f260d4d068",
+    "stato": "ok"
+  },
+  "9bb05d0745": {
+    "url": "https://www.h24notizie.com/2019/03/15/tiero-stronca-lipotesi-aeroporto-civile-non-necessario-la-priorita-e-salvare-scuola-di-volo/",
+    "titolo": "",
+    "testata": "h24notizie.com",
+    "data_articolo": "2019-03-15",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/h24notizie-com_2019-03-15_2019-03-15-tiero-stronca-lipotesi-aeroporto-civile-non-neces_9bb05d0745.pdf",
+    "hash": "9bb05d0745",
+    "stato": "ok"
+  },
+  "4c7012f29b": {
+    "url": "https://www.h24notizie.com/2019/03/06/fazzone-bussa-a-toninelli-salvare-aeroporto-militare-di-latina-e-rilanciare-idea-scalo-low-cost/",
+    "titolo": "",
+    "testata": "h24notizie.com",
+    "data_articolo": "2019-03-06",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/h24notizie-com_2019-03-06_2019-03-06-fazzone-bussa-a-toninelli-salvare-aeroporto-milit_4c7012f29b.pdf",
+    "hash": "4c7012f29b",
+    "stato": "ok"
+  },
+  "0f99c0aded": {
+    "url": "https://www.h24notizie.com/2021/03/25/terzo-scalo-aeroportuale-linterrogazione-di-forte-in-regione/",
+    "titolo": "",
+    "testata": "h24notizie.com",
+    "data_articolo": "2021-03-25",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/h24notizie-com_2021-03-25_2021-03-25-terzo-scalo-aeroportuale-linterrogazione-di-forte_0f99c0aded.pdf",
+    "hash": "0f99c0aded",
+    "stato": "ok"
+  },
+  "9abaa27afd": {
+    "url": "https://ilcaffe.tv/articolo/257720/aeroporto-di-ciampino-i-giudici-danno-torto-a-ryanair-col-98-degli-slot-si-sentiva-discriminata",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-257720-aeroporto-di-ciampino-i-giudici-danno-torto-_9abaa27afd.pdf",
+    "hash": "9abaa27afd",
+    "stato": "ok"
+  },
+  "0da57da53f": {
+    "url": "https://ilcaffe.tv/articolo/251340/duello-ryanair-dhl-laeroporto-di-ciampino-resta-misto-passeggeri-cargo-per-il-momento",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-251340-duello-ryanair-dhl-laeroporto-di-ciampino-re_0da57da53f.pdf",
+    "hash": "0da57da53f",
+    "stato": "ok"
+  },
+  "68628da76a": {
+    "url": "https://ilcaffe.tv/articolo/249943/aeroporto-di-latina-si-apre-la-rotta-dei-voli-civili-dal-2026",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-249943-aeroporto-di-latina-si-apre-la-rotta-dei-vol_68628da76a.pdf",
+    "hash": "68628da76a",
+    "stato": "ok"
+  },
+  "8a66e180a0": {
+    "url": "https://ilcaffe.tv/articolo/233500/il-tribunale-da-ragione-a-ryanair-allaeroporto-di-ciampino-cambiano-i-voli",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-233500-il-tribunale-da-ragione-a-ryanair-allaeropor_8a66e180a0.pdf",
+    "hash": "8a66e180a0",
+    "stato": "ok"
+  },
+  "2b01538145": {
+    "url": "https://ilcaffe.tv/articolo/191072/15-500-passeggeri-fantasma-allaeroporto-di-ciampino-161-societa-aeree-nei-guai",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-191072-15-500-passeggeri-fantasma-allaeroporto-di-c_2b01538145.pdf",
+    "hash": "2b01538145",
+    "stato": "ok"
+  },
+  "afcb140c81": {
+    "url": "https://ilcaffe.tv/articolo/75393/ryanair-contesta-la-riduzione-dei-voli-all-aeroporto-di-ciampino",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-75393-ryanair-contesta-la-riduzione-dei-voli-all-ae_afcb140c81.pdf",
+    "hash": "afcb140c81",
+    "stato": "ok"
+  },
+  "3411ce75c2": {
+    "url": "https://ilcaffe.tv/articolo/73004/aeroporto-misure-urgenti-per-garantire-salute-e-sicurezza-dei-passeggeri",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-73004-aeroporto-misure-urgenti-per-garantire-salute_3411ce75c2.pdf",
+    "hash": "3411ce75c2",
+    "stato": "ok"
+  },
+  "3025b729c5": {
+    "url": "https://ilcaffe.tv/articolo/69001/un-aeroporto-civile-a-latina-depositata-in-regione-una-mozione-bipartisan",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-69001-un-aeroporto-civile-a-latina-depositata-in-re_3025b729c5.pdf",
+    "hash": "3025b729c5",
+    "stato": "ok"
+  },
+  "27d50cfc6f": {
+    "url": "https://ilcaffe.tv/articolo/66766/il-ministero-riapre-l-aeroporto-di-ciampino-ma-ryanair-tiene-a-terra-gli-aerei",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-66766-il-ministero-riapre-l-aeroporto-di-ciampino-m_27d50cfc6f.pdf",
+    "hash": "27d50cfc6f",
+    "stato": "ok"
+  },
+  "3090d6a882": {
+    "url": "https://ilcaffe.tv/articolo/66056/la-protezione-civile-di-genzano-con-il-termoscanner-all-aeroporto-di-fiumicino",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-66056-la-protezione-civile-di-genzano-con-il-termos_3090d6a882.pdf",
+    "hash": "3090d6a882",
+    "stato": "ok"
+  },
+  "06fec0d77e": {
+    "url": "https://ilcaffe.tv/articolo/65806/aeroporto-ciampino-175mila-mascherine-requisite-le-avra-la-protezione-civile",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-65806-aeroporto-ciampino-175mila-mascherine-requisi_06fec0d77e.pdf",
+    "hash": "06fec0d77e",
+    "stato": "ok"
+  },
+  "e71ee7b78e": {
+    "url": "https://ilcaffe.tv/articolo/60684/mozione-in-regione-per-un-nuovo-aeroporto-nel-lazio-torna-l-ipotesi-latina",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-60684-mozione-in-regione-per-un-nuovo-aeroporto-nel_e71ee7b78e.pdf",
+    "hash": "e71ee7b78e",
+    "stato": "ok"
+  },
+  "806b730244": {
+    "url": "https://ilcaffe.tv/articolo/55165/vince-ryanair-nessun-taglio-dei-voli-all-aeroporto-di-ciampino-fino-al-2020",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-55165-vince-ryanair-nessun-taglio-dei-voli-all-aero_806b730244.pdf",
+    "hash": "806b730244",
+    "stato": "ok"
+  },
+  "b7ee8b54c8": {
+    "url": "https://ilcaffe.tv/articolo/54063/terzo-aeroporto-del-lazio-il-neo-senatore-calandrini-candida-latina",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-54063-terzo-aeroporto-del-lazio-il-neo-senatore-cal_b7ee8b54c8.pdf",
+    "hash": "b7ee8b54c8",
+    "stato": "ok"
+  },
+  "20fdadd83f": {
+    "url": "https://ilcaffe.tv/articolo/52804/in-parlamento-il-rilancio-del-progetto-dell-aeroporto-civile-di-latina-scalo",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-52804-in-parlamento-il-rilancio-del-progetto-dell-a_20fdadd83f.pdf",
+    "hash": "20fdadd83f",
+    "stato": "ok"
+  },
+  "6809f38e04": {
+    "url": "https://ilcaffe.tv/articolo/52153/incendio-all-aeroporto-di-ciampino-centinaia-di-passeggeri-ancora-in-attesa",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-52153-incendio-all-aeroporto-di-ciampino-centinaia-_6809f38e04.pdf",
+    "hash": "6809f38e04",
+    "stato": "ok"
+  },
+  "322255f0a6": {
+    "url": "https://ilcaffe.tv/articolo/35377/un-vasto-incendio-lambisce-la-pista-dell-aeroporto-militare-comani-di-latina",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-35377-un-vasto-incendio-lambisce-la-pista-dell-aero_322255f0a6.pdf",
+    "hash": "322255f0a6",
+    "stato": "ok"
+  },
+  "f835cc8ee0": {
+    "url": "https://ilcaffe.tv/articolo/32684/voli-low-cost-a-latina-invece-che-a-ciampino-ri-proposto-l-aeroporto-pontino",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-32684-voli-low-cost-a-latina-invece-che-a-ciampino-_f835cc8ee0.pdf",
+    "hash": "f835cc8ee0",
+    "stato": "ok"
+  },
+  "35f6604d8c": {
+    "url": "https://ilcaffe.tv/articolo/15599/un-aeroporto-low-cost-allo-scalo-militare-di-latina-l-ipotesi-riprende-quota",
+    "titolo": "",
+    "testata": "ilcaffe.tv",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/ilcaffe-tv_2026-07-03_articolo-15599-un-aeroporto-low-cost-allo-scalo-militare-di-_35f6604d8c.pdf",
+    "hash": "35f6604d8c",
+    "stato": "ok"
+  },
+  "7f7ebf7de3": {
+    "url": "https://www.latinacorriere.it/aeroporto-di-fiumicino-la-crescita-di-passeggeri-prosegue-anche-nel-2025/",
+    "titolo": "",
+    "testata": "latinacorriere.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinacorriere-it_2026-07-03_aeroporto-di-fiumicino-la-crescita-di-passeggeri-prosegue-an_7f7ebf7de3.pdf",
+    "hash": "7f7ebf7de3",
+    "stato": "ok"
+  },
+  "81eddcf678": {
+    "url": "https://www.latinacorriere.it/scalo-a-latina-lassociazione-pro-aeroporto-occasione-da-non-perdere/",
+    "titolo": "",
+    "testata": "latinacorriere.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinacorriere-it_2026-07-03_scalo-a-latina-lassociazione-pro-aeroporto-occasione-da-non-_81eddcf678.pdf",
+    "hash": "81eddcf678",
+    "stato": "ok"
+  },
+  "618c44fde6": {
+    "url": "https://www.latinacorriere.it/latina-calandrini-sul-terzo-aeroporto-nel-lazio-si-alla-candidatura-di-latina-ma-no-a-sprechi-e-cattedrali-nel-deserto/",
+    "titolo": "",
+    "testata": "latinacorriere.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinacorriere-it_2026-07-03_latina-calandrini-sul-terzo-aeroporto-nel-lazio-si-alla-cand_618c44fde6.pdf",
+    "hash": "618c44fde6",
+    "stato": "ok"
+  },
+  "4851b1491b": {
+    "url": "https://www.latinacorriere.it/aeroporto-civile-a-latina-scalo-tiero-fratelli-ditalia-si-dissocia-dal-rilancio-del-progetto-meglio-salvare-la-scuola-di-volo/",
+    "titolo": "",
+    "testata": "latinacorriere.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinacorriere-it_2026-07-03_aeroporto-civile-a-latina-scalo-tiero-fratelli-ditalia-si-di_4851b1491b.pdf",
+    "hash": "4851b1491b",
+    "stato": "ok"
+  },
+  "267f414098": {
+    "url": "https://www.latinacorriere.it/latina-terzo-aeroporto-del-lazio-nuova-interrogazione-del-deputato-fauttilli/",
+    "titolo": "",
+    "testata": "latinacorriere.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinacorriere-it_2026-07-03_latina-terzo-aeroporto-del-lazio-nuova-interrogazione-del-de_267f414098.pdf",
+    "hash": "267f414098",
+    "stato": "ok"
+  },
+  "cff80955a8": {
+    "url": "https://www.latinacorriere.it/latina-laeroporto-voli-low-cost-la-proposta-uninterrogazione-regionale-forte/",
+    "titolo": "",
+    "testata": "latinacorriere.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinacorriere-it_2026-07-03_latina-laeroporto-voli-low-cost-la-proposta-uninterrogazione_cff80955a8.pdf",
+    "hash": "cff80955a8",
+    "stato": "ok"
+  },
+  "76700d2f7f": {
+    "url": "https://www.latinapress.it/latina/approvata-la-mozione-per-nuovo-aeroporto-nel-lazio-torna-ipotesi-latina/",
+    "titolo": "",
+    "testata": "latinapress.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinapress-it_2026-07-03_latina-approvata-la-mozione-per-nuovo-aeroporto-nel-lazio-to_76700d2f7f.pdf",
+    "hash": "76700d2f7f",
+    "stato": "ok"
+  },
+  "0b5d2a04e1": {
+    "url": "https://www.latinapress.it/lazio/incendio-allaeroporto-di-ciampino-evacuati-passeggeri-pontini/",
+    "titolo": "",
+    "testata": "latinapress.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinapress-it_2026-07-03_lazio-incendio-allaeroporto-di-ciampino-evacuati-passeggeri-_0b5d2a04e1.pdf",
+    "hash": "0b5d2a04e1",
+    "stato": "ok"
+  },
+  "7f4438a521": {
+    "url": "https://www.latinapress.it/latina/aeroporto-low-cost-latina-forte-presenta-interrogazione-regione/",
+    "titolo": "",
+    "testata": "latinapress.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinapress-it_2026-07-03_latina-aeroporto-low-cost-latina-forte-presenta-interrogazio_7f4438a521.pdf",
+    "hash": "7f4438a521",
+    "stato": "ok"
+  },
+  "0d7562d833": {
+    "url": "https://www.latinapress.it/politica/aeroporto-civile-a-latina-interviene-anche-di-giorgi/",
+    "titolo": "",
+    "testata": "latinapress.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinapress-it_2026-07-03_politica-aeroporto-civile-a-latina-interviene-anche-di-giorg_0d7562d833.pdf",
+    "hash": "0d7562d833",
+    "stato": "ok"
+  },
+  "5015bfb1df": {
+    "url": "https://www.latinaquotidiano.it/auto-storiche-in-pista-allaeroporto-di-latina-successo-per-la-giornata-della-scuderia-clas/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_auto-storiche-in-pista-allaeroporto-di-latina-successo-per-l_5015bfb1df.pdf",
+    "hash": "5015bfb1df",
+    "stato": "ok"
+  },
+  "99cb305657": {
+    "url": "https://www.latinaquotidiano.it/aeroporto-civile-a-latina-tiero-e-di-cocco-non-e-priorita/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_aeroporto-civile-a-latina-tiero-e-di-cocco-non-e-priorita_99cb305657.pdf",
+    "hash": "99cb305657",
+    "stato": "ok"
+  },
+  "bb7230e374": {
+    "url": "https://www.latinaquotidiano.it/i-cittadini-pentastellati-bocciano-lapertura-dellaeroporto-comani-al-traffico-civile/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_i-cittadini-pentastellati-bocciano-lapertura-dellaeroporto-c_bb7230e374.pdf",
+    "hash": "bb7230e374",
+    "stato": "ok"
+  },
+  "476a1c182e": {
+    "url": "https://www.latinaquotidiano.it/terzo-aeroporto-del-lazio-forte-pd-presenta-uninterrogazione/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_terzo-aeroporto-del-lazio-forte-pd-presenta-uninterrogazione_476a1c182e.pdf",
+    "hash": "476a1c182e",
+    "stato": "ok"
+  },
+  "3fa310fadc": {
+    "url": "https://www.latinaquotidiano.it/variante-del-covid-allaeroporto-di-fiumicino-fermato-e-isolato-un-passeggero-positivo-al-tampone/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_variante-del-covid-allaeroporto-di-fiumicino-fermato-e-isola_3fa310fadc.pdf",
+    "hash": "3fa310fadc",
+    "stato": "ok"
+  },
+  "b0efe6faaa": {
+    "url": "https://www.latinaquotidiano.it/laeroporto-di-latina-vola-almeno-in-consiglio-regionale-mozione-bipartisan-forza-italia-e-pd/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_laeroporto-di-latina-vola-almeno-in-consiglio-regionale-mozi_b0efe6faaa.pdf",
+    "hash": "b0efe6faaa",
+    "stato": "ok"
+  },
+  "f97ef1b383": {
+    "url": "https://www.latinaquotidiano.it/laeroporto-a-latina-sha-da-fare-fratelli-ditalia-e-riva-destra-puntano-sullanalisi-di-fattibilita/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_laeroporto-a-latina-sha-da-fare-fratelli-ditalia-e-riva-dest_f97ef1b383.pdf",
+    "hash": "f97ef1b383",
+    "stato": "ok"
+  },
+  "781165c1b4": {
+    "url": "https://www.latinaquotidiano.it/aeroporto-a-latina-de-amicis-e-ora-di-uscire-allo-scoperto-occasione-da-non-perdere/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_aeroporto-a-latina-de-amicis-e-ora-di-uscire-allo-scoperto-o_781165c1b4.pdf",
+    "hash": "781165c1b4",
+    "stato": "ok"
+  },
+  "3714e1d782": {
+    "url": "https://www.latinaquotidiano.it/calandrini-candida-latina-per-il-terzo-aeroporto-del-lazio-ma-gli-ostacoli-sono-enormi/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_calandrini-candida-latina-per-il-terzo-aeroporto-del-lazio-m_3714e1d782.pdf",
+    "hash": "3714e1d782",
+    "stato": "ok"
+  },
+  "ac53ade861": {
+    "url": "https://www.latinaquotidiano.it/aeroporto-civile-a-latina-cusani-oggi-non-ci-sono-le-condizioni-per-realizzarlo/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_aeroporto-civile-a-latina-cusani-oggi-non-ci-sono-le-condizi_ac53ade861.pdf",
+    "hash": "ac53ade861",
+    "stato": "ok"
+  },
+  "062436e69c": {
+    "url": "https://www.latinaquotidiano.it/scuola-di-volo-e-aeroporto-a-latina-fazzone-interroga-il-governo/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_scuola-di-volo-e-aeroporto-a-latina-fazzone-interroga-il-gov_062436e69c.pdf",
+    "hash": "062436e69c",
+    "stato": "ok"
+  },
+  "75d222146c": {
+    "url": "https://www.latinaquotidiano.it/il-ritornello-dellaeroporto-civile-e-lantica-politica/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_il-ritornello-dellaeroporto-civile-e-lantica-politica_75d222146c.pdf",
+    "hash": "75d222146c",
+    "stato": "ok"
+  },
+  "6b6e2bc217": {
+    "url": "https://www.latinaquotidiano.it/il-2-novembre-ricorrono-i-morti-prima-delle-elezioni-laeroporto-civile-di-latina/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_il-2-novembre-ricorrono-i-morti-prima-delle-elezioni-laeropo_6b6e2bc217.pdf",
+    "hash": "6b6e2bc217",
+    "stato": "ok"
+  },
+  "d5cd228aaf": {
+    "url": "https://www.latinaquotidiano.it/la-bufala-dellaeroporto-civile-di-latina-e-la-sindrome-di-icaro/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_la-bufala-dellaeroporto-civile-di-latina-e-la-sindrome-di-ic_d5cd228aaf.pdf",
+    "hash": "d5cd228aaf",
+    "stato": "ok"
+  },
+  "702785ebbd": {
+    "url": "https://www.latinaquotidiano.it/aeroporto-latina-la-cisl-appoggia-la-proposta-esiste-gia-un-piano-di-fattibilita-basta-attuarlo/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_aeroporto-latina-la-cisl-appoggia-la-proposta-esiste-gia-un-_702785ebbd.pdf",
+    "hash": "702785ebbd",
+    "stato": "ok"
+  },
+  "73c65aac91": {
+    "url": "https://www.latinaquotidiano.it/aeroporto-di-latina-per-i-voli-low-cost-largomento-continua-a-dividere/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_aeroporto-di-latina-per-i-voli-low-cost-largomento-continua-_73c65aac91.pdf",
+    "hash": "73c65aac91",
+    "stato": "ok"
+  },
+  "fc567129b0": {
+    "url": "https://www.latinaquotidiano.it/aeroporto-di-fiumicino-operativo-al-60-la-proposta-aprire-il-comani-di-latina-ai-voli-civili/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_aeroporto-di-fiumicino-operativo-al-60-la-proposta-aprire-il_fc567129b0.pdf",
+    "hash": "fc567129b0",
+    "stato": "ok"
+  },
+  "af8b690a74": {
+    "url": "https://www.latinaquotidiano.it/cecere-cisl-facciamo-volare-lo-sviluppo-si-al-terzo-scalo-aeroportuale-del-lazio-a-latina/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_cecere-cisl-facciamo-volare-lo-sviluppo-si-al-terzo-scalo-ae_af8b690a74.pdf",
+    "hash": "af8b690a74",
+    "stato": "ok"
+  },
+  "5ef9b8f332": {
+    "url": "https://www.latinaquotidiano.it/procaccini-fazzone-fronte-comune-per-realizzare-uno-scalo-aeroportuale-a-latina/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_procaccini-fazzone-fronte-comune-per-realizzare-uno-scalo-ae_5ef9b8f332.pdf",
+    "hash": "5ef9b8f332",
+    "stato": "ok"
+  },
+  "f51ac9fb57": {
+    "url": "https://www.latinaquotidiano.it/comani-civile-e-nuovo-goretti-damiano-coletta-archivia-i-sogni-impossibili/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_comani-civile-e-nuovo-goretti-damiano-coletta-archivia-i-sog_f51ac9fb57.pdf",
+    "hash": "f51ac9fb57",
+    "stato": "ok"
+  },
+  "61608dc8bf": {
+    "url": "https://www.latinaquotidiano.it/i-voli-low-cost-di-fiumicino-allaeroporto-comani-di-latina-la-proposta-in-consiglio-regionale/",
+    "titolo": "",
+    "testata": "latinaquotidiano.it",
+    "data_articolo": "",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinaquotidiano-it_2026-07-03_i-voli-low-cost-di-fiumicino-allaeroporto-comani-di-latina-l_61608dc8bf.pdf",
+    "hash": "61608dc8bf",
+    "stato": "ok"
+  },
+  "7f24bf3569": {
+    "url": "https://www.latinatoday.it/economia/dibattito-progetto-aeroporto-latina-frosinone-29-agosto-2012.html",
+    "titolo": "Aeroporto, si rompe il coro dei sì. E Frosinone fa la guerra a Latina",
+    "testata": "latinatoday.it",
+    "data_articolo": "2012",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinatoday-it_2012_economia-dibattito-progetto-aeroporto-latina-frosinone-29-ag_7f24bf3569.pdf",
+    "hash": "7f24bf3569",
+    "stato": "ok"
+  },
+  "68cf0cd619": {
+    "url": "https://www.latinatoday.it/economia/aeroporto-low-cost-latina-nuova-possibilita-20-agosto-2012.html",
+    "titolo": "Aeroporto civile a Latina, il progetto torna a prendere quota",
+    "testata": "latinatoday.it",
+    "data_articolo": "2012",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/latinatoday-it_2012_economia-aeroporto-low-cost-latina-nuova-possibilita-20-agos_68cf0cd619.pdf",
+    "hash": "68cf0cd619",
+    "stato": "ok"
+  },
+  "9d29376ae6": {
+    "url": "https://www.radioluna.it/news/2021/04/aeroporto-civile-a-latina-tiero-non-e-una-priorita-bisogna-pensare-alle-altre-infrastrutture/",
+    "titolo": "ATTUALITA'5 anni faAeroporto civile a Latina, Tiero: «Non è una priorità, bisogna pensare alle altre infrastrutture”(fot",
+    "testata": "radioluna.it",
+    "data_articolo": "2021-04",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/radioluna-it_2021-04_news-2021-04-aeroporto-civile-a-latina-tiero-non-e-una-prior_9d29376ae6.pdf",
+    "hash": "9d29376ae6",
+    "stato": "ok"
+  },
+  "a72c5a589f": {
+    "url": "https://www.radioluna.it/news/2013/07/aeroporto-de-amicis-qualcuno-non-dice-la-verita/",
+    "titolo": "POLITICA13 anni faAEROPORTODe Amicis: “Qualcuno non dice la verità”LATINA – Gli atteggiamenti ed i giudizi dell’ultima s",
+    "testata": "radioluna.it",
+    "data_articolo": "2013-07",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/radioluna-it_2013-07_news-2013-07-aeroporto-de-amicis-qualcuno-non-dice-la-verita_a72c5a589f.pdf",
+    "hash": "a72c5a589f",
+    "stato": "ok"
+  },
+  "5f6f9d43b1": {
+    "url": "https://www.radioluna.it/news/2024/04/traffico-in-aumento-nei-cieli-pontini-al-comani-giornata-della-sicurezza-del-volo/",
+    "titolo": "APPUNTAMENTI2 anni faTraffico in aumento nei cieli pontini, al Comani Giornata della sicurezza del voloLATINA – Il traff",
+    "testata": "radioluna.it",
+    "data_articolo": "2024-04",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/radioluna-it_2024-04_news-2024-04-traffico-in-aumento-nei-cieli-pontini-al-comani_5f6f9d43b1.pdf",
+    "hash": "5f6f9d43b1",
+    "stato": "ok"
+  },
+  "c452b97053": {
+    "url": "https://www.radioluna.it/news/2021/04/lazio-volo-dallindia-positivo-il-9-dei-passeggeri/",
+    "titolo": "CRONACA5 anni faLazio, volo dall’India, positivo il 9% dei passeggeriLATINA – Il 9% dei passeggeri del volo atterrato ie",
+    "testata": "radioluna.it",
+    "data_articolo": "2021-04",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/radioluna-it_2021-04_news-2021-04-lazio-volo-dallindia-positivo-il-9-dei-passegge_c452b97053.pdf",
+    "hash": "c452b97053",
+    "stato": "ok"
+  },
+  "ebb57659cc": {
+    "url": "https://www.radioluna.it/news/2017/07/incendio-lambisce-la-pista-di-decollo-del-comani-e-allarme/",
+    "titolo": "CRONACA9 anni faIncendio lambisce la pista di decollo del Comani, è allarmeLATINA – Gli incendi non danno tregua a vigil",
+    "testata": "radioluna.it",
+    "data_articolo": "2017-07",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/radioluna-it_2017-07_news-2017-07-incendio-lambisce-la-pista-di-decollo-del-coman_ebb57659cc.pdf",
+    "hash": "ebb57659cc",
+    "stato": "ok"
+  },
+  "79c7cea8bf": {
+    "url": "https://www.radioluna.it/news/2014/05/aprire-il-comani-ai-voli-cargo-unindustria-rilancia-la-proposta-del-sottosegretario-rossi/",
+    "titolo": "AUDIO12 anni faAprire il Comani ai voli cargo, Unindustria rilancia la proposta del sottosegretario RossiLATINA – Aprire",
+    "testata": "radioluna.it",
+    "data_articolo": "2014-05",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/radioluna-it_2014-05_news-2014-05-aprire-il-comani-ai-voli-cargo-unindustria-rila_79c7cea8bf.pdf",
+    "hash": "79c7cea8bf",
+    "stato": "ok"
   }
 }

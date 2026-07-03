@@ -16,3 +16,4 @@ __pycache__/
 .env
 data/fonti_grezze.csv
 data/fonti_triage.csv
+data/core_articoli.csv
