@@ -7,6 +7,17 @@
   },
   "stakeholder": [
     {
+      "soggetto": "Paride Martella",
+      "ruolo": "Presidente della Provincia di Latina (1995-2004)",
+      "ente": "Provincia di Latina",
+      "categoria": "politico",
+      "partito": "centrodestra",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Nel 1995/96 lancia per primo l'idea di affiancare un uso civile all'aeroporto militare Comani. Origine del dibattito.",
+      "periodo": "1995-1996",
+      "eventi": ["EV-1995-001"]
+    },
+    {
       "soggetto": "Michela Califano",
       "ruolo": "Consigliera regionale Lazio",
       "ente": "Consiglio Regionale del Lazio",
@@ -179,6 +190,17 @@
       "partito": "",
       "posizione": "CONTRARIO",
       "motivazione": "Ha escluso Latina dal proprio dossier di pianificazione aeroportuale ('pietra tombale'). Da confermare con fonte primaria.",
+      "periodo": "2025",
+      "eventi": ["EV-2025-003"]
+    },
+    {
+      "soggetto": "Alfredo Pallone",
+      "ruolo": "Membro del Consiglio di Amministrazione ENAC",
+      "ente": "ENAC",
+      "categoria": "ente pubblico / politico",
+      "partito": "",
+      "posizione": "CONTRARIO",
+      "motivazione": "Parere contrario all'aeroporto civile a Latina (citato da econovie). Da verificare con dichiarazione/fonte diretta.",
       "periodo": "2025",
       "eventi": ["EV-2025-003"]
     },

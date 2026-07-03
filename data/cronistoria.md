@@ -2,7 +2,7 @@
 
 > Archivio cronologico primario, verificato, delle vicende e delle proposte di riconversione/uso civile dell'aeroporto militare 'Enrico Comani' di Latina, dalla fine degli anni '90 a oggi. Ogni voce ha un ID stabile e citabile. L'analisi derivata (mappa stakeholder, schede tematiche, sito, voce Wikipedia) rinvia a questi ID.
 
-*Ultimo aggiornamento: 2026-07-03. 19 voci. Fonte di verita': `cronistoria.json` (non modificare i .md/.csv generati).*
+*Ultimo aggiornamento: 2026-07-03. 20 voci. Fonte di verita': `cronistoria.json` (non modificare i .md/.csv generati).*
 
 ## 1938-03-28 — Inaugurazione dell'aeroporto (contesto infrastrutturale)  `EV-INFRA-001`
 
@@ -12,13 +12,19 @@
 - **Citazione:** «pista in asfalto lunga 1 700 m e larga 40 m; scalo militare gestito dall'Aeronautica Militare (70º Stormo, aeroclub, elisoccorso 118).»
 - **Fonti:** [Wikipedia](https://it.wikipedia.org/wiki/Aeroporto_di_Latina) ([📄 copia PDF](../archive/pdf/it-wikipedia-org_2026-07-03_wiki-aeroporto-di-latina_58e7ed11d8.pdf))
 
-## 1997/1999 — LACUNA: eventuali proposte di uso civile di fine anni '90 (da reperire)  `EV-1990s-001` 🔴 DA REPERIRE
+## 1995/1996 — Paride Martella lancia l'idea dell'uso civile del Comani (ORIGINE del dibattito)  `EV-1995-001`
+
+- **Categoria:** proposta politica  ·  **Tema:** uso-misto-militare | civile-passeggeri  ·  **Esito:** senza seguito  ·  **Affidabilità:** media
+- **Soggetti:** Paride Martella (Presidente Provincia di Latina)
+- **Descrizione:** Nel 1995 (una fonte indica il 1996) Paride Martella, presidente della Provincia di Latina (in carica 1995-2004), lancia l'idea di affiancare all'aeroporto militare Comani un uso civile. È il primo atto documentato del dibattito sullo scalo civile, all'origine del 'se ne parla da oltre 30 anni'. Non se ne fece nulla.
+- **Citazione:** ««Nel '95 Paride Martella, allora presidente della Provincia di Latina, lancia l'idea di fare del Comani uno scalo anche civile.»»
+- **Fonti:** [Fatto a Latina](https://fattoalatina.it/2021/03/23/a-latina-se-non-hai-idee-chiedi-un-aeroporto-civile/); [Latina Quotidiano](https://www.latinaquotidiano.it/la-bufala-dellaeroporto-civile-di-latina-e-la-sindrome-di-icaro/)
+
+## 1995/2005 — LACUNA: copertura stampa e atti 1995-2005 (da reperire offline)  `EV-1990s-001` 🔴 DA REPERIRE
 
 - **Categoria:** lacuna documentale  ·  **Tema:** civile-passeggeri  ·  **Esito:** non determinato  ·  **Affidabilità:** da-verificare
-- **Descrizione:** La richiesta di ricerca copre esplicitamente il periodo 1997-1999, ma NESSUN evento verificabile è stato trovato prima del ~2006. Alcune fonti recenti affermano che l'idea 'circolava da oltre 30 anni', il che retrodaterebbe il dibattito agli anni '90, ma non esiste conferma documentale online. Voce-lacuna aperta: verificare atti consiliari, rassegna stampa d'epoca e archivi locali.
-- **Citazione:** «l'idea di convertire l'aeroporto militare in scalo civile è circolata 'per oltre 30 anni'.»
-- **Fonti:** [Il Faro Online (Latina Tu)](https://www.latinatu.it) ([📄 copia PDF](../archive/pdf/il-faro-online-latina-tu_2025_il-faro-online-latina-tu_10a33661c9.pdf))
-- **⚠ Reperimento:** Comune di Latina (Archivio/Segreteria Consiglio comunale); Provincia di Latina; emeroteche (Biblioteca comunale di Latina) per Latina Oggi / Il Messaggero cartacei anni '90 — _Accesso agli atti (L. 241/1990) al Comune e alla Provincia per delibere/atti 1997-1999; consultazione emeroteca per rassegna stampa cartacea d'epoca_
+- **Descrizione:** L'origine del dibattito è ora datata al 1995-96 (Martella, EV-1995-001), ma tra il 1995 e il ~2006 non è stato trovato materiale verificabile sul web indicizzato (Google News e Google date-search restituiscono 0 per quegli anni: il materiale pontino non è digitalizzato). Voce-lacuna: recuperare offline atti della Provincia/Comune e rassegna stampa cartacea del periodo.
+- **⚠ Reperimento:** Provincia di Latina (atti giunta/consiglio 1995-2004, era Martella); Comune di Latina; emeroteca Biblioteca comunale di Latina (Latina Oggi / Il Messaggero cartacei) — _Accesso agli atti (L. 241/1990) a Provincia e Comune per delibere del periodo; consultazione emeroteca per la rassegna stampa cartacea 1995-2005_
 
 ## 2006-12 — Nascita dell'attivismo civico per lo scalo civile  `EV-2006-001`
 

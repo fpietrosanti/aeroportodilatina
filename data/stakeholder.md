@@ -2,8 +2,11 @@
 
 > Chi si è espresso a favore, chi contro, chi in modo ambivalente sulla riconversione/uso civile del Comani. Strato derivato dalla cronistoria: la colonna 'eventi' rinvia agli ID di cronistoria.json.
 
-## 🟢 FAVOREVOLE (9)
+## 🟢 FAVOREVOLE (10)
 
+- **Paride Martella** — Presidente della Provincia di Latina (1995-2004), centrodestra · _1995-1996_  
+  Nel 1995/96 lancia per primo l'idea di affiancare un uso civile all'aeroporto militare Comani. Origine del dibattito.  
+  ↳ eventi: EV-1995-001
 - **Michela Califano** — Consigliera regionale Lazio, Partito Democratico · _2018_  
   Prima firmataria (con Forte) della mozione 42/2018 per individuare il Comani come scalo low cost.  
   ↳ eventi: EV-2018-001
@@ -32,7 +35,7 @@
   Finanziò lo studio di fattibilità 2007 sullo scalo.  
   ↳ eventi: EV-2007-001
 
-## 🔴 CONTRARIO (4)
+## 🔴 CONTRARIO (5)
 
 - **Enrico Tiero** — Vice-coordinatore/vice-portavoce regionale, Fratelli d'Italia · _2021_  
   Mar 2021: l'aeroporto civile 'non è assolutamente una priorità'; prima la Pontina, la ferrovia, i collegamenti stradali.  
@@ -45,6 +48,9 @@
   ↳ eventi: EV-2020-002
 - **ENAC** — Ente Nazionale Aviazione Civile · _2025_  
   Ha escluso Latina dal proprio dossier di pianificazione aeroportuale ('pietra tombale'). Da confermare con fonte primaria.  
+  ↳ eventi: EV-2025-003
+- **Alfredo Pallone** — Membro del Consiglio di Amministrazione ENAC · _2025_  
+  Parere contrario all'aeroporto civile a Latina (citato da econovie). Da verificare con dichiarazione/fonte diretta.  
   ↳ eventi: EV-2025-003
 
 ## 🟠 AMBIVALENTE-MUTEVOLE (4)

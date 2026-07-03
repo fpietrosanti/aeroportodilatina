@@ -2,10 +2,10 @@
 
 *8 voci con stato OFFLINE-DA-REPERIRE.*
 
-## EV-1990s-001 — LACUNA: eventuali proposte di uso civile di fine anni '90 (da reperire) (1997/1999)
-- **Ente detentore:** Comune di Latina (Archivio/Segreteria Consiglio comunale); Provincia di Latina; emeroteche (Biblioteca comunale di Latina) per Latina Oggi / Il Messaggero cartacei anni '90
-- **Modalità di richiesta:** Accesso agli atti (L. 241/1990) al Comune e alla Provincia per delibere/atti 1997-1999; consultazione emeroteca per rassegna stampa cartacea d'epoca
-- **Note:** Priorità media: colma il 'buco delle origini'. Verificare anche eventuale attività della prima associazione pro-scalo.
+## EV-1990s-001 — LACUNA: copertura stampa e atti 1995-2005 (da reperire offline) (1995/2005)
+- **Ente detentore:** Provincia di Latina (atti giunta/consiglio 1995-2004, era Martella); Comune di Latina; emeroteca Biblioteca comunale di Latina (Latina Oggi / Il Messaggero cartacei)
+- **Modalità di richiesta:** Accesso agli atti (L. 241/1990) a Provincia e Comune per delibere del periodo; consultazione emeroteca per la rassegna stampa cartacea 1995-2005
+- **Note:** Confermato dai test di ricerca per data: il vuoto 1995-2005 è reale (non digitalizzato), non un fallimento di ricerca.
 
 ## EV-2006-002 — Piano Regionale dei Trasporti: Latina tra i siti per un terzo scalo (2006)
 - **Ente detentore:** Regione Lazio - Direzione Infrastrutture e Mobilità

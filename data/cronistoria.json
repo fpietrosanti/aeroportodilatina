@@ -39,24 +39,43 @@
       "note_reperimento": ""
     },
     {
+      "id": "EV-1995-001",
+      "data": "1995/1996",
+      "data_precisione": "anno-incerto",
+      "titolo_evento": "Paride Martella lancia l'idea dell'uso civile del Comani (ORIGINE del dibattito)",
+      "descrizione": "Nel 1995 (una fonte indica il 1996) Paride Martella, presidente della Provincia di Latina (in carica 1995-2004), lancia l'idea di affiancare all'aeroporto militare Comani un uso civile. È il primo atto documentato del dibattito sullo scalo civile, all'origine del 'se ne parla da oltre 30 anni'. Non se ne fece nulla.",
+      "soggetti": ["Paride Martella (Presidente Provincia di Latina)"],
+      "categoria_evento": "proposta politica",
+      "tema": ["uso-misto-militare", "civile-passeggeri"],
+      "esito": "senza seguito",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Fatto a Latina", "autore": "", "data": "2021-03-23", "url": "https://fattoalatina.it/2021/03/23/a-latina-se-non-hai-idee-chiedi-un-aeroporto-civile/", "quality": "secondaria"},
+        {"testata": "Latina Quotidiano", "autore": "", "data": "", "url": "https://www.latinaquotidiano.it/la-bufala-dellaeroporto-civile-di-latina-e-la-sindrome-di-icaro/", "quality": "secondaria"}
+      ],
+      "estratto": "«Nel '95 Paride Martella, allora presidente della Provincia di Latina, lancia l'idea di fare del Comani uno scalo anche civile.»",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "ORIGINE del dibattito. Discrepanza anno 1995 (fattoalatina) vs 1996 (latinaquotidiano). Copertura stampa d'epoca 1995-96 da reperire in emeroteca per datazione precisa."
+    },
+    {
       "id": "EV-1990s-001",
-      "data": "1997/1999",
+      "data": "1995/2005",
       "data_precisione": "periodo-incerto",
-      "titolo_evento": "LACUNA: eventuali proposte di uso civile di fine anni '90 (da reperire)",
-      "descrizione": "La richiesta di ricerca copre esplicitamente il periodo 1997-1999, ma NESSUN evento verificabile è stato trovato prima del ~2006. Alcune fonti recenti affermano che l'idea 'circolava da oltre 30 anni', il che retrodaterebbe il dibattito agli anni '90, ma non esiste conferma documentale online. Voce-lacuna aperta: verificare atti consiliari, rassegna stampa d'epoca e archivi locali.",
+      "titolo_evento": "LACUNA: copertura stampa e atti 1995-2005 (da reperire offline)",
+      "descrizione": "L'origine del dibattito è ora datata al 1995-96 (Martella, EV-1995-001), ma tra il 1995 e il ~2006 non è stato trovato materiale verificabile sul web indicizzato (Google News e Google date-search restituiscono 0 per quegli anni: il materiale pontino non è digitalizzato). Voce-lacuna: recuperare offline atti della Provincia/Comune e rassegna stampa cartacea del periodo.",
       "soggetti": [],
       "categoria_evento": "lacuna documentale",
       "tema": ["civile-passeggeri"],
       "esito": "non determinato",
       "affidabilita": "da-verificare",
-      "fonti": [
-        {"testata": "Il Faro Online (Latina Tu)", "autore": "", "data": "2025", "url": "https://www.latinatu.it", "quality": "secondaria"}
-      ],
-      "estratto": "l'idea di convertire l'aeroporto militare in scalo civile è circolata 'per oltre 30 anni'.",
+      "fonti": [],
+      "estratto": "",
       "stato_reperimento": "OFFLINE-DA-REPERIRE",
-      "ente_detentore": "Comune di Latina (Archivio/Segreteria Consiglio comunale); Provincia di Latina; emeroteche (Biblioteca comunale di Latina) per Latina Oggi / Il Messaggero cartacei anni '90",
-      "modalita_richiesta": "Accesso agli atti (L. 241/1990) al Comune e alla Provincia per delibere/atti 1997-1999; consultazione emeroteca per rassegna stampa cartacea d'epoca",
-      "note_reperimento": "Priorità media: colma il 'buco delle origini'. Verificare anche eventuale attività della prima associazione pro-scalo."
+      "ente_detentore": "Provincia di Latina (atti giunta/consiglio 1995-2004, era Martella); Comune di Latina; emeroteca Biblioteca comunale di Latina (Latina Oggi / Il Messaggero cartacei)",
+      "modalita_richiesta": "Accesso agli atti (L. 241/1990) a Provincia e Comune per delibere del periodo; consultazione emeroteca per la rassegna stampa cartacea 1995-2005",
+      "note_reperimento": "Confermato dai test di ricerca per data: il vuoto 1995-2005 è reale (non digitalizzato), non un fallimento di ricerca."
     },
     {
       "id": "EV-2006-001",
