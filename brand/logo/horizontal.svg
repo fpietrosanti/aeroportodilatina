@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140" role="img" aria-label="Comitato per l'Aeroporto di Latina"><g transform="translate(6 10)"><circle cx="60" cy="60" r="58" fill="#0b3d67"/>
+<line x1="30" y1="88" x2="90" y2="88" stroke="#4f7ba6" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="53" y="42" width="14" height="46" fill="#f4f6f8"/>
+<rect x="50" y="35" width="20" height="7" rx="1" fill="#f4f6f8"/>
+<line x1="53" y1="52" x2="67" y2="52" stroke="#0b3d67" stroke-width="1.6"/>
+<line x1="53" y1="60" x2="67" y2="60" stroke="#0b3d67" stroke-width="1.6"/>
+<line x1="53" y1="68" x2="67" y2="68" stroke="#0b3d67" stroke-width="1.6"/>
+<line x1="53" y1="76" x2="67" y2="76" stroke="#0b3d67" stroke-width="1.6"/>
+<path d="M60 84 Q70 58 88 42" fill="none" stroke="#f0b429" stroke-width="2" stroke-dasharray="1.5 3.5" stroke-linecap="round"/>
+<path d="M76 48 Q82 41 88 46 Q94 39 100 44" fill="none" stroke="#f0b429" stroke-width="2.8" stroke-linecap="round"/>
+</g><text x="150" y="62" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#0b3d67">Comitato per l'Aeroporto</text><text x="150" y="98" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#0b3d67">di Latina</text><text x="150" y="126" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#e0a300">Per il terzo scalo del Lazio</text></svg>

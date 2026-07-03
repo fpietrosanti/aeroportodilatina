@@ -103,7 +103,9 @@ def page(title: str, body: str) -> str:
            '<a href="da-reperire.html">Da reperire</a></nav>')
     return f"""<!doctype html><html lang="it"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)} — Comitato per l'Aeroporto di Latina</title><style>{CSS}</style></head>
+<title>{e(title)} — Comitato per l'Aeroporto di Latina</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>{CSS}</style></head>
 <body><header class="site"><div class="wrap"><h1>Comitato per l'Aeroporto di Latina</h1>
 <p>Archivio documentale delle vicende dell'aeroporto "Enrico Comani" e delle proposte di uso civile</p></div>
 {nav}</header><main>{body}</main>
@@ -333,6 +335,9 @@ def main() -> None:
     (ROOT / "sitemap.xml").write_text(sitemap, encoding="utf-8")
     (ROOT / "robots.txt").write_text(
         f"User-agent: *\nAllow: /\n\nSitemap: {BASE_URL}/sitemap.xml\n", encoding="utf-8")
+    fav = ROOT / "brand" / "logo" / "favicon.svg"
+    if fav.exists():
+        (ROOT / "favicon.svg").write_text(fav.read_text(encoding="utf-8"), encoding="utf-8")
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
     print(f"Sito generato: index, cronistoria, atti, rassegna-stampa, stakeholder, "
           f"da-reperire, sitemap.xml ({n_url} url), robots.txt (+ .nojekyll)")
