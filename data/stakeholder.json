@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "titolo": "Mappa degli stakeholder — Aeroporto di Latina (uso civile)",
+    "descrizione": "Chi si è espresso a favore, chi contro, chi in modo ambivalente sulla riconversione/uso civile del Comani. Strato derivato dalla cronistoria: la colonna 'eventi' rinvia agli ID di cronistoria.json.",
+    "ultimo_aggiornamento": "2026-07-03",
+    "legenda_posizione": ["FAVOREVOLE", "CONTRARIO", "NEUTRO-CONDIZIONATO", "AMBIVALENTE-MUTEVOLE"]
+  },
+  "stakeholder": [
+    {
+      "soggetto": "Michela Califano",
+      "ruolo": "Consigliera regionale Lazio",
+      "ente": "Consiglio Regionale del Lazio",
+      "categoria": "politico",
+      "partito": "Partito Democratico",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Prima firmataria (con Forte) della mozione 42/2018 per individuare il Comani come scalo low cost.",
+      "periodo": "2018",
+      "eventi": ["EV-2018-001"]
+    },
+    {
+      "soggetto": "Enrico Forte",
+      "ruolo": "Consigliere regionale Lazio",
+      "ente": "Consiglio Regionale del Lazio",
+      "categoria": "politico",
+      "partito": "Partito Democratico",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Firmatario della mozione 42/2018 e, nel 2020, della mozione bipartisan con Simeone per il terzo aeroporto regionale a Latina.",
+      "periodo": "2018-2020",
+      "eventi": ["EV-2018-001", "EV-2020-003"]
+    },
+    {
+      "soggetto": "Giuseppe Simeone",
+      "ruolo": "Capogruppo regionale, Consigliere",
+      "ente": "Consiglio Regionale del Lazio",
+      "categoria": "politico",
+      "partito": "Forza Italia",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Co-firmatario (con Forte, PD) della mozione bipartisan 2020: Latina 'ideale' per il terzo scalo viste le criticità di Fiumicino e Ciampino.",
+      "periodo": "2020",
+      "eventi": ["EV-2020-003"]
+    },
+    {
+      "soggetto": "Claudio Fazzone",
+      "ruolo": "Senatore, coordinatore regionale Lazio",
+      "ente": "Senato della Repubblica",
+      "categoria": "politico",
+      "partito": "Forza Italia",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Interrogazione 2019: convertire il Comani in terzo scalo commerciale (low cost/charter/cargo) e bloccare il trasferimento del 70° Stormo; Latina 'meglio attrezzata' e a 'minori spese'.",
+      "periodo": "2019",
+      "eventi": ["EV-2019-001", "EV-2019-002"]
+    },
+    {
+      "soggetto": "Francesco Rocca",
+      "ruolo": "Presidente della Regione Lazio",
+      "ente": "Regione Lazio",
+      "categoria": "ente pubblico / politico",
+      "partito": "centrodestra (indip.)",
+      "posizione": "AMBIVALENTE-MUTEVOLE",
+      "motivazione": "Feb 2025: apertura condizionata ('deve esserci un mercato'). Fine 2025/2026: ribaltamento — Latina/Frosinone 'non credibili', crescita via quarta pista di Fiumicino.",
+      "periodo": "2025-2026",
+      "eventi": ["EV-2025-001", "EV-2026-001"]
+    },
+    {
+      "soggetto": "Nicola Procaccini",
+      "ruolo": "Esponente / europarlamentare",
+      "ente": "Fratelli d'Italia",
+      "categoria": "politico",
+      "partito": "Fratelli d'Italia",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Posizione favorevole in fase iniziale (ott. 2019), poi mutata a livello di partito.",
+      "periodo": "2019",
+      "eventi": ["EV-2019-003"]
+    },
+    {
+      "soggetto": "Fratelli d'Italia (Latina)",
+      "ruolo": "Partito politico (sezione locale/regionale)",
+      "ente": "Fratelli d'Italia",
+      "categoria": "partito",
+      "partito": "Fratelli d'Italia",
+      "posizione": "AMBIVALENTE-MUTEVOLE",
+      "motivazione": "Favorevole (2019) → propone studio di fattibilità (giu. 2020) → contrario (mar. 2021: 'non è una priorità', prima strade e ferrovie) → successivi segnali di nuovo favorevoli.",
+      "periodo": "2019-2021",
+      "eventi": ["EV-2019-003", "EV-2020-001", "EV-2021-001"]
+    },
+    {
+      "soggetto": "Enrico Tiero",
+      "ruolo": "Vice-coordinatore/vice-portavoce regionale",
+      "ente": "Fratelli d'Italia",
+      "categoria": "politico",
+      "partito": "Fratelli d'Italia",
+      "posizione": "CONTRARIO",
+      "motivazione": "Mar 2021: l'aeroporto civile 'non è assolutamente una priorità'; prima la Pontina, la ferrovia, i collegamenti stradali.",
+      "periodo": "2021",
+      "eventi": ["EV-2021-001"]
+    },
+    {
+      "soggetto": "Gianluca Di Cocco",
+      "ruolo": "Portavoce FdI Latina",
+      "ente": "Fratelli d'Italia",
+      "categoria": "politico",
+      "partito": "Fratelli d'Italia",
+      "posizione": "CONTRARIO",
+      "motivazione": "Mar 2021: l'aeroporto servirebbe Roma, non Latina, portando inquinamento con scarso beneficio locale.",
+      "periodo": "2021",
+      "eventi": ["EV-2021-001"]
+    },
+    {
+      "soggetto": "Salvatore Antoci",
+      "ruolo": "Consigliere comunale di Latina",
+      "ente": "Comune di Latina (gruppo misto)",
+      "categoria": "politico",
+      "partito": "gruppo misto",
+      "posizione": "CONTRARIO",
+      "motivazione": "Giu 2020: le low cost pretendono co-marketing pubblico ('aiuti di Stato mascherati'); aeroporto a <100 km da Fiumicino/Ciampino è 'una follia economica e ambientale'.",
+      "periodo": "2020",
+      "eventi": ["EV-2020-002"]
+    },
+    {
+      "soggetto": "Associazione 'Pro Aeroporto di Latina'",
+      "ruolo": "Associazione promotrice (pres. Enzo De Amicis)",
+      "ente": "Associazione civica",
+      "categoria": "comitato/associazione",
+      "partito": "",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Fondata dic. 2018 per il terzo aeroporto civile; dichiara (non verificato) studi di fattibilità e contatti con finanziatori internazionali senza aiuti di Stato.",
+      "periodo": "2018-oggi",
+      "eventi": ["EV-2018-002", "EV-2021-002"]
+    },
+    {
+      "soggetto": "Associazione 'Mettiamo le ali a Latina'",
+      "ruolo": "Associazione promotrice",
+      "ente": "Associazione civica",
+      "categoria": "comitato/associazione",
+      "partito": "",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Dal dicembre 2006 per l'uso civile dell'aeroporto.",
+      "periodo": "2006-",
+      "eventi": ["EV-2006-001"]
+    },
+    {
+      "soggetto": "Associazione 'Aeroporto per Latina' (avv. Dino Lucchetti)",
+      "ruolo": "Associazione promotrice",
+      "ente": "Associazione civica",
+      "categoria": "comitato/associazione",
+      "partito": "",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Promuove la conversione civile; organizzò un volo dimostrativo civile (non realizzato) ~2006-2007.",
+      "periodo": "2006-2007",
+      "eventi": ["EV-2006-001"]
+    },
+    {
+      "soggetto": "Camera di Commercio di Latina",
+      "ruolo": "Ente camerale",
+      "ente": "Camera di Commercio di Latina",
+      "categoria": "ente pubblico",
+      "partito": "",
+      "posizione": "FAVOREVOLE",
+      "motivazione": "Finanziò lo studio di fattibilità 2007 sullo scalo.",
+      "periodo": "2007",
+      "eventi": ["EV-2007-001"]
+    },
+    {
+      "soggetto": "Regione Lazio (Giunta/Direzione Mobilità)",
+      "ruolo": "Ente regionale",
+      "ente": "Regione Lazio",
+      "categoria": "ente pubblico",
+      "partito": "",
+      "posizione": "AMBIVALENTE-MUTEVOLE",
+      "motivazione": "PRT 2006 includeva Latina; 2021 chiede tavolo tecnico al MIT; 2025 apertura di Rocca; 2026 orientamento verso Fiumicino.",
+      "periodo": "2006-2026",
+      "eventi": ["EV-2006-002", "EV-2021-002", "EV-2025-001", "EV-2026-001"]
+    },
+    {
+      "soggetto": "ENAC",
+      "ruolo": "Ente Nazionale Aviazione Civile",
+      "ente": "ENAC",
+      "categoria": "ente pubblico",
+      "partito": "",
+      "posizione": "CONTRARIO",
+      "motivazione": "Ha escluso Latina dal proprio dossier di pianificazione aeroportuale ('pietra tombale'). Da confermare con fonte primaria.",
+      "periodo": "2025",
+      "eventi": ["EV-2025-003"]
+    },
+    {
+      "soggetto": "Aeronautica Militare (70° Stormo)",
+      "ruolo": "Gestore militare del sedime",
+      "ente": "Aeronautica Militare",
+      "categoria": "ente pubblico",
+      "partito": "",
+      "posizione": "AMBIVALENTE-MUTEVOLE",
+      "motivazione": "Attore chiave: usa il sedime (scuola volo). Nel 2019 il tema è il possibile trasferimento del 70° Stormo a Grazzanise. Nessuna presa di posizione esplicita pro/contro l'uso civile verificata.",
+      "periodo": "2019-",
+      "eventi": ["EV-INFRA-001", "EV-2019-001"]
+    }
+  ]
+}

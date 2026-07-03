@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "titolo": "Cronistoria dell'Aeroporto di Latina (Enrico Comani) e delle proposte di uso civile",
+    "descrizione": "Archivio cronologico primario, verificato, delle vicende e delle proposte di riconversione/uso civile dell'aeroporto militare 'Enrico Comani' di Latina, dalla fine degli anni '90 a oggi. Ogni voce ha un ID stabile e citabile. L'analisi derivata (mappa stakeholder, schede tematiche, sito, voce Wikipedia) rinvia a questi ID.",
+    "ultimo_aggiornamento": "2026-07-03",
+    "legenda_stato_reperimento": {
+      "archiviato": "fonte reperita e copia PDF locale presente",
+      "online-da-archiviare": "fonte reperita online, PDF non ancora generato",
+      "OFFLINE-DA-REPERIRE": "documento noto ma non reperito: da richiedere all'ente detentore",
+      "richiesto": "richiesta di accesso inoltrata, in attesa",
+      "negato": "accesso negato dall'ente"
+    },
+    "legenda_affidabilita": {
+      "alta": "verifica avversariale 3-0 e/o fonte primaria istituzionale",
+      "media": "verifica 2-1 o fonte unica locale attendibile",
+      "da-verificare": "affermazione auto-riferita o non confermata in modo indipendente"
+    },
+    "note_metodo": "Verifica avversariale a 3 voti sulle affermazioni (deep-research). Le citazioni testuali sono in lingua originale. Diverse URL de Il Messaggero hanno restituito blocchi anti-bot (HTTP 418/403) e sono state verificate via snippet e testate concordanti."
+  },
+  "eventi": [
+    {
+      "id": "EV-INFRA-001",
+      "data": "1938-03-28",
+      "data_precisione": "giorno",
+      "titolo_evento": "Inaugurazione dell'aeroporto (contesto infrastrutturale)",
+      "descrizione": "L'aeroporto viene inaugurato come 'Aeroporto di Littoria', poi intitolato al Cap. Pil. Enrico Comani. Dati infrastrutturali attuali: pista unica in asfalto 1.700 m x 40 m, orientamento 12/30, quota 28 m, operazioni limitate al volo a vista (VFR). Sedime del demanio militare, gestione Aeronautica Militare. Usi attuali: 70° Stormo (scuola di volo), aeroclub, elisoccorso 118, voli di Stato.",
+      "soggetti": ["Aeronautica Militare", "70° Stormo"],
+      "categoria_evento": "fatto infrastrutturale",
+      "tema": ["contesto"],
+      "esito": "in essere",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Wikipedia", "autore": "", "data": "", "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Latina", "quality": "secondaria"}
+      ],
+      "estratto": "pista in asfalto lunga 1 700 m e larga 40 m; scalo militare gestito dall'Aeronautica Militare (70º Stormo, aeroclub, elisoccorso 118).",
+      "stato_reperimento": "archiviato",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": ""
+    },
+    {
+      "id": "EV-1990s-001",
+      "data": "1997/1999",
+      "data_precisione": "periodo-incerto",
+      "titolo_evento": "LACUNA: eventuali proposte di uso civile di fine anni '90 (da reperire)",
+      "descrizione": "La richiesta di ricerca copre esplicitamente il periodo 1997-1999, ma NESSUN evento verificabile è stato trovato prima del ~2006. Alcune fonti recenti affermano che l'idea 'circolava da oltre 30 anni', il che retrodaterebbe il dibattito agli anni '90, ma non esiste conferma documentale online. Voce-lacuna aperta: verificare atti consiliari, rassegna stampa d'epoca e archivi locali.",
+      "soggetti": [],
+      "categoria_evento": "lacuna documentale",
+      "tema": ["civile-passeggeri"],
+      "esito": "non determinato",
+      "affidabilita": "da-verificare",
+      "fonti": [
+        {"testata": "Il Faro Online (Latina Tu)", "autore": "", "data": "2025", "url": "https://www.latinatu.it", "quality": "secondaria"}
+      ],
+      "estratto": "l'idea di convertire l'aeroporto militare in scalo civile è circolata 'per oltre 30 anni'.",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Comune di Latina (Archivio/Segreteria Consiglio comunale); Provincia di Latina; emeroteche (Biblioteca comunale di Latina) per Latina Oggi / Il Messaggero cartacei anni '90",
+      "modalita_richiesta": "Accesso agli atti (L. 241/1990) al Comune e alla Provincia per delibere/atti 1997-1999; consultazione emeroteca per rassegna stampa cartacea d'epoca",
+      "note_reperimento": "Priorità media: colma il 'buco delle origini'. Verificare anche eventuale attività della prima associazione pro-scalo."
+    },
+    {
+      "id": "EV-2006-001",
+      "data": "2006-12",
+      "data_precisione": "mese",
+      "titolo_evento": "Nascita dell'attivismo civico per lo scalo civile",
+      "descrizione": "Prime associazioni civiche a promuovere la conversione a uso civile / coesistenza civile-militare del Comani: 'Mettiamo le ali a Latina' (attiva 'dal dicembre 2006 per l'uso civile dell'aeroporto') e 'Aeroporto per Latina', guidata dall'avvocato Dino Lucchetti, che organizzò un volo dimostrativo civile (mai realizzato) al Comani intorno al 2006-2007.",
+      "soggetti": ["Associazione 'Mettiamo le ali a Latina'", "Associazione 'Aeroporto per Latina'", "Dino Lucchetti (avvocato)"],
+      "categoria_evento": "attivismo civico",
+      "tema": ["civile-passeggeri", "uso-misto-militare"],
+      "esito": "senza seguito diretto",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Latina Today", "autore": "", "data": "2025-02-07", "url": "https://www.latinatoday.it/politica/latina-scalo-rocca-aeroporto-civile.html", "quality": "secondaria"},
+        {"testata": "Il Caffè", "autore": "", "data": "2025-02-06", "url": "https://ilcaffe.tv/articolo/236206/un-aeroporto-internazionale-a-latina-la-politica-ci-riprova-ma", "quality": "secondaria"}
+      ],
+      "estratto": "'Mettiamo le Ali a Latina' si batte 'dal dicembre 2006 per l'uso civile dell'aeroporto di Latina'; 'Aeroporto per Latina' (avv. Dino Lucchetti) organizzò un volo dimostrativo civile poi non realizzato.",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "Verifica 2-1: lieve sovra-attribuzione alle associazioni di studi poi svolti da enti pubblici/privati (2007-2008)."
+    },
+    {
+      "id": "EV-2006-002",
+      "data": "2006",
+      "data_precisione": "anno",
+      "titolo_evento": "Piano Regionale dei Trasporti: Latina tra i siti per un terzo scalo",
+      "descrizione": "Un Piano Regionale dei Trasporti del 2006 (Regione Lazio) include la proposta di sviluppare l'aeroporto militare di Latina come terzo sito aeroportuale regionale, valorizzandone i collegamenti.",
+      "soggetti": ["Regione Lazio"],
+      "categoria_evento": "atto di pianificazione",
+      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "esito": "arenato (prevalse Viterbo)",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Piano Mobilità Lazio (portale regionale)", "autore": "", "data": "2006", "url": "https://www.pianomobilitalazio.it", "quality": "primaria-istituzionale"}
+      ],
+      "estratto": "'Un terzo sito aeroportuale venisse realizzato a Latina, dove l'attuale scalo militare può vantare un buon collegamento'.",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Regione Lazio - Direzione Infrastrutture e Mobilità",
+      "modalita_richiesta": "Accesso agli atti / richiesta del testo integrale del Piano Regionale dei Trasporti 2006 alla Regione Lazio (Direzione Mobilità)",
+      "note_reperimento": "Serve il documento originale del PRT 2006 per citare pagina e formulazione esatta."
+    },
+    {
+      "id": "EV-2007-001",
+      "data": "2007",
+      "data_precisione": "anno",
+      "titolo_evento": "Studio di fattibilità della Camera di Commercio di Latina",
+      "descrizione": "La Camera di Commercio di Latina finanzia uno studio di fattibilità sullo scalo. Nel biennio 2007-2008 l'aeroporto è al vaglio di organi statali e privati insieme a Frosinone e Viterbo, e inserito nelle linee guida per lo sviluppo aeroportuale regionale. Alla fine viene favorito Viterbo.",
+      "soggetti": ["Camera di Commercio di Latina", "Regione Lazio", "organi statali e privati"],
+      "categoria_evento": "studio di fattibilità",
+      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "esito": "arenato (prevalse Viterbo)",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Wikipedia", "autore": "", "data": "", "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Latina", "quality": "secondaria"},
+        {"testata": "Il Caffè", "autore": "", "data": "2025-02-06", "url": "https://ilcaffe.tv/articolo/236206/un-aeroporto-internazionale-a-latina-la-politica-ci-riprova-ma", "quality": "secondaria"}
+      ],
+      "estratto": "'l'aeroporto è stato al vaglio di organi statali e privati (biennio 2007/2008) assieme a quelli di Frosinone e Viterbo, ed inserito nelle linee guida per lo sviluppo aeroportuale regionale.'",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Camera di Commercio di Latina (committente dello studio 2007)",
+      "modalita_richiesta": "Richiesta formale/accesso agli atti alla Camera di Commercio di Latina per copia dello studio di fattibilità 2007 (titolo, autore, elaborati, eventuali slide/render)",
+      "note_reperimento": "DOCUMENTO CHIAVE. Nessuna URL al documento reperita online: solo descrizioni giornalistiche. Da acquisire direttamente."
+    },
+    {
+      "id": "EV-2018-001",
+      "data": "2018-07-25",
+      "data_precisione": "giorno",
+      "titolo_evento": "Consiglio Regionale del Lazio: approvata la Mozione n. 42/2018",
+      "descrizione": "L'Aula del Consiglio Regionale del Lazio approva la Mozione n. 42/2018, presentata dai consiglieri PD Michela Califano ed Enrico Forte, che impegna il presidente Zingaretti/Giunta a verificare la possibilità di individuare l'aeroporto 'E. Comani' di Latina (o altri siti idonei, anche nel quadrante nord della regione) come scalo adeguato per voli low cost. Uno di sette atti di indirizzo approvati quel giorno; l'impianto principale è un parere negativo sulla quarta pista di Fiumicino e la creazione di un gruppo di lavoro tecnico per un 'secondo aeroporto a servizio di Fiumicino'.",
+      "soggetti": ["Consiglio Regionale del Lazio", "Michela Califano (PD)", "Enrico Forte (PD)", "Nicola Zingaretti (Presidente Regione)"],
+      "categoria_evento": "mozione/delibera consiliare",
+      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "esito": "approvato",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Consiglio Regionale del Lazio", "autore": "", "data": "2018-07-25", "url": "http://www.consiglio.regione.lazio.it/consiglio-regionale/?id=2712&vw=newsDettaglio", "quality": "primaria-istituzionale"},
+        {"testata": "Latina Oggi", "autore": "", "data": "2018", "url": "https://www.latinaoggi.eu/news/politica/144662/terzo-aeroporto-del-lazio-interrogazione-di-forte-alla-regione", "quality": "secondaria"}
+      ],
+      "estratto": "'La mozione n. 42 del 25 luglio 2018... impegna il presidente Zingaretti a... verificare la possibilità di individuare l'aeroporto E. Comani di Latina o altri siti ritenuti idonei, anche nel quadrante nord della regione, come scalo adeguato per i voli low cost.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "Consiglio Regionale del Lazio (testo integrale della mozione e resoconto d'Aula)",
+      "modalita_richiesta": "URL istituzionale disponibile; per il testo integrale firmato: richiesta all'Ufficio atti del Consiglio Regionale del Lazio",
+      "note_reperimento": "FONTE PRIMARIA. Doppia verifica 3-0. Archiviare la pagina istituzionale."
+    },
+    {
+      "id": "EV-2018-002",
+      "data": "2018-12",
+      "data_precisione": "mese",
+      "titolo_evento": "Fondazione dell'associazione 'Pro Aeroporto di Latina'",
+      "descrizione": "Nasce l'associazione 'Pro Aeroporto di Latina', presieduta da Enzo De Amicis, per sviluppare le condizioni di un terzo aeroporto CIVILE al Comani. L'associazione afferma (auto-riferito, NON verificato in modo indipendente) di aver prodotto studi di fattibilità supervisionati da grandi società di settore e di aver avuto contatti in fase avanzata con finanziatori/developer internazionali disposti a finanziare l'infrastruttura senza aiuti di Stato.",
+      "soggetti": ["Associazione 'Pro Aeroporto di Latina'", "Enzo De Amicis (presidente)"],
+      "categoria_evento": "attivismo civico",
+      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "esito": "attiva",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Latina Corriere", "autore": "", "data": "2019-11-01", "url": "https://www.latinacorriere.it/", "quality": "secondaria"},
+        {"testata": "Il Messaggero (Latina)", "autore": "", "data": "2021-07", "url": "https://www.ilmessaggero.it/pay/latina_pay/terzo_aeroporto_de_amicis_rilancia_l_ipotesi_di_latina-6073925.html", "quality": "secondaria"}
+      ],
+      "estratto": "Enzo De Amicis, presidente 'Pro Aeroporto di Latina' (fondata dicembre 2018); l'associazione afferma di aver prodotto studi di fattibilità e di avere contatti con finanziatori internazionali (claim auto-riferito).",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Associazione 'Pro Aeroporto di Latina' (per gli studi che dichiara di detenere)",
+      "modalita_richiesta": "Contatto diretto con l'associazione per ottenere copia degli studi/slide dichiarati; valutare attendibilità (claim contraddetti in sostanza dall'esclusione ENAC)",
+      "note_reperimento": "Presidenza verificata 3-0; studi/finanziatori 2-1 come auto-riferiti. Trattare i documenti come da verificare."
+    },
+    {
+      "id": "EV-2019-001",
+      "data": "2019-03-05",
+      "data_precisione": "giorno",
+      "titolo_evento": "Interrogazione parlamentare del sen. Fazzone (Forza Italia)",
+      "descrizione": "Il senatore Claudio Fazzone (Forza Italia, coordinatore regionale Lazio) presenta un'interrogazione al Senato ai ministri Danilo Toninelli (Infrastrutture) ed Elisabetta Trenta (Difesa) con duplice obiettivo: (a) impedire il trasferimento del 70° Stormo da Latina a Grazzanise; (b) convertire il Comani nel terzo aeroporto commerciale del Lazio per traffico charter/low cost sottratto a Ciampino, traffico turistico verso Roma e Napoli, e operazioni cargo/merci regionali.",
+      "soggetti": ["Claudio Fazzone (Senatore, Forza Italia)", "Danilo Toninelli (Ministro Infrastrutture)", "Elisabetta Trenta (Ministra Difesa)"],
+      "categoria_evento": "interrogazione parlamentare",
+      "tema": ["civile-passeggeri", "cargo", "terzo-scalo"],
+      "esito": "senza seguito noto",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Il Faro Online", "autore": "", "data": "2019-03-06", "url": "https://www.ilfaroonline.it/2019/03/06/aeroporto-militare-salvare-uno-scalo-low-cost-latina-linterrogazione-fazzone/264125/", "quality": "secondaria"},
+        {"testata": "Latina Corriere", "autore": "", "data": "2019-03-05", "url": "https://www.latinacorriere.it/salvare-laeroporto-militare-di-latina-e-rilanciare-lidea-dello-scalo-low-cost-e-merci-linterrogazione-di-fazzone/", "quality": "secondaria"}
+      ],
+      "estratto": "'Lo scalo di Latina potrebbe accogliere il traffico charter e low cost trasferito da Ciampino'; traffico turistico 'diretto a Roma, Napoli'; titolo: 'scalo low cost e merci'.",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Senato della Repubblica (testo integrale dell'atto di sindacato ispettivo)",
+      "modalita_richiesta": "Reperire il testo dell'interrogazione sulla banca dati atti del Senato (senato.it) per numero/seduta; in subordine, richiesta all'ufficio atti",
+      "note_reperimento": "Motivazione (EV-2019-002) associata. Recuperare numero atto e risposta ministeriale (se fornita)."
+    },
+    {
+      "id": "EV-2019-002",
+      "data": "2019-03-05",
+      "data_precisione": "giorno",
+      "titolo_evento": "Le motivazioni tecniche di Fazzone",
+      "descrizione": "Nell'interrogazione, Fazzone sostiene che Latina sia 'meglio attrezzato' per la conversione civile per: contiguità con la linea ferroviaria Roma-Napoli; assenza di vincoli ambientali e archeologici; centralità geografica tra Roma e Napoli; minori interventi infrastrutturali e quindi minori spese. Lo scalo allevierebbe la congestione di Fiumicino e Ciampino. È l'unico segnale qualitativo sui costi emerso; nessuna cifra in euro è stata verificata.",
+      "soggetti": ["Claudio Fazzone (Senatore, Forza Italia)"],
+      "categoria_evento": "dichiarazione pubblica",
+      "tema": ["civile-passeggeri", "costi"],
+      "esito": "senza seguito noto",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Il Faro Online", "autore": "", "data": "2019-03-06", "url": "https://www.ilfaroonline.it/2019/03/06/aeroporto-militare-salvare-uno-scalo-low-cost-latina-linterrogazione-fazzone/264125/", "quality": "secondaria"}
+      ],
+      "estratto": "Comani 'appare il meglio attrezzato sia per la contiguità con la linea ferroviaria Roma-Napoli, sia per la mancanza di vincoli ambientali e archeologici'; 'richiederebbe minori interventi, e, quindi, minori spese.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "Unico segnale sui costi: qualitativo ('minori spese'), nessuna cifra."
+    },
+    {
+      "id": "EV-2019-003",
+      "data": "2019-10-29",
+      "data_precisione": "giorno",
+      "titolo_evento": "Fratelli d'Italia a favore (fase iniziale)",
+      "descrizione": "In fase iniziale Fratelli d'Italia si esprime a favore dello scalo civile (posizione riferita a Nicola Procaccini, ottobre 2019). La posizione di FdI muterà nel tempo: favorevole (2019) → proposta di studio di fattibilità (giugno 2020) → contraria (marzo 2021) → successivi segnali di nuovo favorevoli.",
+      "soggetti": ["Fratelli d'Italia", "Nicola Procaccini (FdI)"],
+      "categoria_evento": "dichiarazione pubblica",
+      "tema": ["civile-passeggeri"],
+      "esito": "posizione poi mutata",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Latina Today", "autore": "", "data": "2021-03-26", "url": "https://www.latinatoday.it/politica/latina-fratelli-italia-aeroporto-civile.html", "quality": "secondaria"}
+      ],
+      "estratto": "La posizione di FdI è mutata nel tempo: sostegno (Procaccini, ott. 2019) → studio di fattibilità (giu. 2020) → contrari (mar. 2021).",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "Data ricostruita dalla ricostruzione della testata; reperire la dichiarazione originale di Procaccini 2019."
+    },
+    {
+      "id": "EV-2020-001",
+      "data": "2020-06-16",
+      "data_precisione": "giorno",
+      "titolo_evento": "Fratelli d'Italia propone uno studio di fattibilità",
+      "descrizione": "Fratelli d'Italia a Latina propone di puntare su uno studio di fattibilità per la conversione civile, riaprendo il dibattito e suscitando immediata opposizione pubblica.",
+      "soggetti": ["Fratelli d'Italia (Latina)"],
+      "categoria_evento": "proposta politica",
+      "tema": ["civile-passeggeri"],
+      "esito": "dibattito riaperto",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Latina Quotidiano", "autore": "", "data": "2020-06-16", "url": "https://www.latinaquotidiano.it/aeroporto-civile-a-latina-ce-chi-dice-no-un-regalo-alle-compagnie-low-cost-e-un-fardello-per-i-cittadini/", "quality": "secondaria"}
+      ],
+      "estratto": "'A rilanciare l'idea proponendo di puntare su uno studio di fattibilità è stato in questi giorni fratelli d'Italia.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "Attribuito al partito senza nome individuale; fonte locale unica, adeguata."
+    },
+    {
+      "id": "EV-2020-002",
+      "data": "2020-06-16",
+      "data_precisione": "giorno",
+      "titolo_evento": "OPPOSIZIONE: il consigliere Antoci contro lo scalo civile",
+      "descrizione": "Il consigliere comunale di Latina Salvatore Antoci (gruppo misto) si oppone pubblicamente all'aeroporto civile con due argomenti: (a) le compagnie low cost pretendono di essere pagate per atterrare tramite fondi pubblici di co-marketing, 'veri e propri aiuti di Stato mascherati da co-marketing', un onere per i cittadini; (b) collocare un aeroporto a meno di 100 km da Fiumicino (~96 km) e Ciampino (~81 km) sarebbe 'una follia sia dal punto di vista economico sia dal punto di vista ambientale'.",
+      "soggetti": ["Salvatore Antoci (consigliere comunale, gruppo misto)"],
+      "categoria_evento": "presa di posizione contraria",
+      "tema": ["civile-passeggeri", "costi"],
+      "esito": "opposizione dichiarata",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Latina Quotidiano", "autore": "", "data": "2020-06-16", "url": "https://www.latinaquotidiano.it/aeroporto-civile-a-latina-ce-chi-dice-no-un-regalo-alle-compagnie-low-cost-e-un-fardello-per-i-cittadini/", "quality": "secondaria"}
+      ],
+      "estratto": "'«Le Compagnie low-cost per atterrare vogliono essere pagate! Questa è la realtà!»'; '«...veri e propri aiuti di Stato mascherati da co-marketing»'; aeroporto sotto i 100 km sarebbe 'una follia... economico... ambientale.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "Distanze corrette. Fonte locale unica che cita direttamente il soggetto."
+    },
+    {
+      "id": "EV-2020-003",
+      "data": "2020-07-01",
+      "data_precisione": "giorno-incerto",
+      "titolo_evento": "Mozione bipartisan Forte (PD) / Simeone (FI) per il terzo scalo",
+      "descrizione": "I consiglieri regionali Enrico Forte (PD) e Giuseppe Simeone (capogruppo Forza Italia) depositano una mozione bipartisan che impegna il presidente Zingaretti e la giunta a 'porre in essere ogni iniziativa e azioni necessaria volta alla realizzazione di un terzo aeroporto regionale, utilizzando la struttura già esistente a Latina', citando le criticità di Fiumicino e Ciampino.",
+      "soggetti": ["Enrico Forte (PD)", "Giuseppe Simeone (Forza Italia)", "Nicola Zingaretti (Presidente Regione)"],
+      "categoria_evento": "mozione/delibera consiliare",
+      "tema": ["terzo-scalo", "civile-passeggeri"],
+      "esito": "depositata",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Il Messaggero (Latina)", "autore": "", "data": "2020-07-02", "url": "https://www.ilmessaggero.it/latina/aeroporto_latina_mozione_regione_forte_simeone_terzo_scalo_del_lazio-5321427.html", "quality": "secondaria"},
+        {"testata": "Il Caffè", "autore": "", "data": "2025-02-06", "url": "https://ilcaffe.tv/articolo/236206/un-aeroporto-internazionale-a-latina-la-politica-ci-riprova-ma", "quality": "secondaria"}
+      ],
+      "estratto": "impegno a Zingaretti/giunta per un 'terzo aeroporto regionale, utilizzando la struttura già esistente a Latina'; 'consideriamo la zona di Latina ideale... viste anche le criticità esistenti nei siti di Fiumicino e Ciampino.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "Consiglio Regionale del Lazio (testo della mozione)",
+      "modalita_richiesta": "Richiesta del testo integrale all'Ufficio atti del Consiglio Regionale del Lazio",
+      "note_reperimento": "Discrepanza di un giorno sulla data (1 luglio Latina Quotidiano vs 2 luglio Il Messaggero)."
+    },
+    {
+      "id": "EV-2021-001",
+      "data": "2021-03-26",
+      "data_precisione": "giorno",
+      "titolo_evento": "OPPOSIZIONE: Fratelli d'Italia si schiera contro",
+      "descrizione": "Fratelli d'Italia si schiera formalmente CONTRO l'aeroporto civile, tramite Enrico Tiero (vice-coordinatore/vice-portavoce regionale FdI) e Gianluca Di Cocco (portavoce FdI Latina), dichiarando che l'aeroporto civile 'non è assolutamente una priorità' e che la priorità spetta alle infrastrutture stradali e ferroviarie — Cisterna-Valmontone, Roma-Latina, collegamento Latina-Gaeta-Formia, ammodernamento della Pontina e potenziamento ferroviario — e che l'aeroporto servirebbe Roma, non Latina, portando inquinamento con scarso beneficio locale.",
+      "soggetti": ["Fratelli d'Italia", "Enrico Tiero (FdI)", "Gianluca Di Cocco (FdI)"],
+      "categoria_evento": "presa di posizione contraria",
+      "tema": ["civile-passeggeri"],
+      "esito": "opposizione dichiarata",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Latina Today", "autore": "", "data": "2021-03-26", "url": "https://www.latinatoday.it/politica/latina-fratelli-italia-aeroporto-civile.html", "quality": "secondaria"},
+        {"testata": "Il Faro Online", "autore": "", "data": "2021-03-26", "url": "https://www.ilfaroonline.it/2021/03/26/aeroporto-a-latina-tiero-e-di-cocco-le-priorita-sono-altre/403020/", "quality": "secondaria"}
+      ],
+      "estratto": "'Aeroporto civile, Fratelli d'Italia si schiera contro la realizzazione dello scalo'; 'pensiamo che le priorità siano altre... l'ammodernamento della Pontina, il potenziamento della linea ferroviaria.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "FdI in seguito avrebbe di nuovo sostenuto il progetto ('Facciamolo')."
+    },
+    {
+      "id": "EV-2021-002",
+      "data": "2021-07",
+      "data_precisione": "mese",
+      "titolo_evento": "La Regione Lazio chiede un tavolo tecnico al Ministero",
+      "descrizione": "La Regione Lazio chiede formalmente un incontro urgente alla Direzione generale per gli aeroporti e il trasporto aereo del Ministero delle Infrastrutture e dei Trasporti per analizzare il sistema aeroportuale laziale e valutare l'istituzione di un tavolo tecnico per individuare un terzo aeroporto del Lazio. L'associazione Pro Aeroporto accoglie con favore.",
+      "soggetti": ["Regione Lazio", "Ministero delle Infrastrutture e dei Trasporti (Direzione generale aeroporti)", "Associazione 'Pro Aeroporto di Latina'"],
+      "categoria_evento": "atto amministrativo",
+      "tema": ["terzo-scalo"],
+      "esito": "senza seguito noto",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Il Messaggero (Latina)", "autore": "", "data": "2021-07", "url": "https://www.ilmessaggero.it/pay/latina_pay/terzo_aeroporto_de_amicis_rilancia_l_ipotesi_di_latina-6073925.html", "quality": "secondaria"},
+        {"testata": "Latina Oggi", "autore": "", "data": "2021-07", "url": "https://www.latinaoggi.eu/news/attualita/168321", "quality": "secondaria"}
+      ],
+      "estratto": "la Regione chiede alla Direzione generale per gli aeroporti e il trasporto aereo un incontro urgente per valutare un tavolo tecnico per il terzo aeroporto del Lazio; Latina Oggi: 'Terzo aeroporto nel Lazio, Latina torna a sperare'.",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Regione Lazio / MIT (protocollo della richiesta)",
+      "modalita_richiesta": "Accesso agli atti alla Regione Lazio per la nota di richiesta e all'eventuale riscontro del MIT",
+      "note_reperimento": "Verificare se il tavolo tecnico sia mai stato istituito."
+    },
+    {
+      "id": "EV-2025-001",
+      "data": "2025-02-05",
+      "data_precisione": "giorno",
+      "titolo_evento": "Il presidente Rocca riapre l'ipotesi al Forum del Turismo",
+      "descrizione": "Al primo Forum del Turismo della Regione Lazio (5 febbraio 2025, Salone delle Colonne, Roma), il presidente Francesco Rocca rilancia pubblicamente l'idea dell'aeroporto civile con apertura condizionata: 'mi piace l'idea di avere l'aeroporto a Frosinone o a Latina però poi ci deve essere un mercato... Altrimenti cominciamo con i veti incrociati.' Inquadrato come risposta al sovraffollamento di Fiumicino e alle difficoltà logistiche di Ciampino; afferma che una decisione va presa.",
+      "soggetti": ["Francesco Rocca (Presidente Regione Lazio)"],
+      "categoria_evento": "dichiarazione pubblica",
+      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "esito": "apertura condizionata (poi ribaltata)",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Il Caffè", "autore": "", "data": "2025-02-06", "url": "https://ilcaffe.tv/articolo/236206/un-aeroporto-internazionale-a-latina-la-politica-ci-riprova-ma", "quality": "secondaria"},
+        {"testata": "Latina Today", "autore": "", "data": "2025-02-07", "url": "https://www.latinatoday.it/politica/latina-scalo-rocca-aeroporto-civile.html", "quality": "secondaria"}
+      ],
+      "estratto": "'mi piace l'idea di avere l'aeroporto a Frosinone o a Latina però poi ci deve essere un mercato... Altrimenti cominciamo con i veti incrociati.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "L'articolo Latina Today è del 7 feb; il Forum si è tenuto il 5 feb."
+    },
+    {
+      "id": "EV-2025-002",
+      "data": "2025",
+      "data_precisione": "anno",
+      "titolo_evento": "STATO: ipotesi/pre-fattibilità, nessuna decisione",
+      "descrizione": "Allo stato la riconversione civile del Comani resta soltanto a livello di ipotesi/pre-fattibilità, senza alcuna decisione concreta: 'al momento si è soltanto nel campo delle ipotesi... Per ora non si è andati oltre gli appelli e studi sulla pre-fattibilità.' Latina NON è un aeroporto civile operativo: resta un aeroporto militare (voli di Stato, scuola volo, elisoccorso). [REFUTATA 0-3 l'affermazione di Wikipedia secondo cui Latina 'è' il terzo aeroporto del Lazio per traffico civile: è aspirazionale, non operativo.]",
+      "soggetti": [],
+      "categoria_evento": "quadro di sintesi",
+      "tema": ["civile-passeggeri", "terzo-scalo"],
+      "esito": "arenato",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Il Caffè", "autore": "", "data": "2025-02-06", "url": "https://ilcaffe.tv/articolo/236206/un-aeroporto-internazionale-a-latina-la-politica-ci-riprova-ma", "quality": "secondaria"},
+        {"testata": "Wikipedia", "autore": "", "data": "", "url": "https://it.wikipedia.org/wiki/Aeroporto_di_Latina", "quality": "secondaria"}
+      ],
+      "estratto": "'al momento si è soltanto nel campo delle ipotesi... Per ora non si è andati oltre gli appelli e studi sulla pre-fattibilità.'",
+      "stato_reperimento": "online-da-archiviare",
+      "ente_detentore": "",
+      "modalita_richiesta": "",
+      "note_reperimento": "REFUTATA 0-3 la formulazione Wikipedia 'è il terzo aeroporto'. Correggere la voce in ottica NPOV."
+    },
+    {
+      "id": "EV-2025-003",
+      "data": "2025",
+      "data_precisione": "anno-incerto",
+      "titolo_evento": "ENAC esclude Latina dal dossier aeroportuale ('pietra tombale')",
+      "descrizione": "Latina Oggi (art. 208061) riporta che l'ENAC ha escluso Latina dal proprio dossier di pianificazione aeroportuale: 'Enac, pietra tombale sull'aeroporto civile. Latina non pervenuta nel dossier dell'Ente'. È un dato istituzionale negativo decisivo, emerso in fase di verifica. Da confermare con fonte primaria ENAC.",
+      "soggetti": ["ENAC"],
+      "categoria_evento": "atto/posizione istituzionale contraria",
+      "tema": ["terzo-scalo"],
+      "esito": "esclusione",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Latina Oggi", "autore": "", "data": "2025", "url": "https://www.latinaoggi.eu/news/attualita/208061/enac-pietra-tombale-sull-aeroporto-civile-latina-non-pervenuta-nel-dossier-dell-ente.html", "quality": "secondaria"}
+      ],
+      "estratto": "'Enac, pietra tombale sull'aeroporto civile. Latina non pervenuta nel dossier dell'Ente'.",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "ENAC (Ente Nazionale per l'Aviazione Civile) - dossier/Piano Nazionale Aeroporti",
+      "modalita_richiesta": "Accesso civico generalizzato (FOIA, D.lgs. 33/2013) all'ENAC per il dossier/atti di pianificazione in cui Latina risulta o non risulta",
+      "note_reperimento": "DECISIVO. Confermare con documento ENAC. Contraddice i claim promozionali dell'associazione."
+    },
+    {
+      "id": "EV-2026-001",
+      "data": "2025/2026",
+      "data_precisione": "periodo-incerto",
+      "titolo_evento": "Il presidente Rocca ribalta la posizione (sfavorevole a Latina)",
+      "descrizione": "Tra fine 2025 e 2026 (fonte frosinonetoday.it) il presidente Rocca ribalta l'apertura precedente, dichiarando che 'Frosinone non è una sede credibile' e che anche Latina non è credibile, sostenendo che la crescita del traffico aereo regionale debba passare per la quarta pista di Fiumicino. È l'attuale (2026) indirizzo istituzionale, negativo per Latina, e supera l'apertura del febbraio 2025.",
+      "soggetti": ["Francesco Rocca (Presidente Regione Lazio)"],
+      "categoria_evento": "dichiarazione pubblica",
+      "tema": ["terzo-scalo"],
+      "esito": "indirizzo negativo per Latina",
+      "affidabilita": "media",
+      "fonti": [
+        {"testata": "Frosinone Today", "autore": "", "data": "2025/2026", "url": "https://www.frosinonetoday.it", "quality": "secondaria"}
+      ],
+      "estratto": "Rocca: 'Frosinone non è una sede credibile'; la crescita del traffico regionale deve passare per la quarta pista di Fiumicino.",
+      "stato_reperimento": "OFFLINE-DA-REPERIRE",
+      "ente_detentore": "Regione Lazio (dichiarazioni/atti); testata Frosinone Today",
+      "modalita_richiesta": "Reperire e archiviare l'articolo di Frosinone Today; verificare con comunicato/atto regionale la formulazione esatta e la data",
+      "note_reperimento": "ENDPOINT 2026. Confermare data precisa e testo con fonte primaria."
+    }
+  ]
+}

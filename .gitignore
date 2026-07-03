@@ -1,0 +1,16 @@
+# --- Materiale interno / non pubblicabile ---
+# I PDF archiviati SONO pubblicati (decisione utente 2026-07-03): archive/pdf/ è versionato.
+
+# Log tecnici, non da pubblicare.
+archive/errori.log
+
+# Piano di lavoro interno e note strategiche (registro militante, COI Wikipedia).
+TODO.md
+internal/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
