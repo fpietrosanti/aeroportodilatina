@@ -366,6 +366,26 @@
       "note_reperimento": "Verificare se il tavolo tecnico sia mai stato istituito."
     },
     {
+      "id": "EV-2022-001",
+      "data": "2022-11",
+      "data_precisione": "mese",
+      "titolo_evento": "Regione Lazio, PRMTL 'Il Sistema Aeroportuale': Latina solo come scalo militare, non tra i candidati civili",
+      "descrizione": "Il documento 'Il Sistema Aeroportuale' allegato al Piano Regionale della Mobilità, dei Trasporti e della Logistica (PRMTL, nov 2022) elenca Latina UNICAMENTE tra gli scali militari del Lazio (con Viterbo, Frosinone, Pratica di Mare, Furbara, Guidonia) e in una tabella dei tempi di trasporto verso Fiumicino. NON considera Latina tra i candidati a scalo civile o terzo aeroporto regionale. Documenta lo scarto tra le mozioni politiche pro-Latina (2018, 2020) e la pianificazione regionale effettiva, coerente con l'indirizzo 2026 verso la quarta pista di Fiumicino.",
+      "soggetti": ["Regione Lazio (Direzione regionale Infrastrutture e Mobilità)"],
+      "categoria_evento": "documento di pianificazione",
+      "tema": ["terzo-scalo"],
+      "esito": "Latina non inclusa tra gli scali civili",
+      "affidabilita": "alta",
+      "fonti": [
+        {"testata": "Regione Lazio", "autore": "", "data": "2022-11", "url": "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Aeroportuale.pdf", "quality": "primaria-istituzionale"}
+      ],
+      "estratto": "«...sono poi presenti gli scali militari di Viterbo, Frosinone, Latina, Pratica di Mare, Furbara e Guidonia...» (Latina classificata come scalo militare, non civile)",
+      "stato_reperimento": "archiviato",
+      "ente_detentore": "Regione Lazio (PRMTL)",
+      "modalita_richiesta": "",
+      "note_reperimento": "FONTE ISTITUZIONALE. PDF pubblico archiviato localmente. Utile per l'analisi NPOV: la pianificazione regionale non recepisce le mozioni pro-Latina."
+    },
+    {
       "id": "EV-2025-001",
       "data": "2025-02-05",
       "data_precisione": "giorno",

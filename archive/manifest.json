@@ -200,5 +200,16 @@
     "hash": "senato1996boll69",
     "stato": "ok",
     "note": "PDF fornito dall utente (Downloads/13908_13908.pdf); reperito via Google date-search 1995-2000"
+  },
+  "regionelazio2022sistaero": {
+    "url": "https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Aeroportuale.pdf",
+    "titolo": "Il Sistema Aeroportuale - Regione Lazio (PRMTL)",
+    "testata": "Regione Lazio",
+    "data_articolo": "2022-11",
+    "data_archiviazione": "2026-07-03",
+    "file_pdf": "pdf/regione-lazio_2022-11_prmtl-il-sistema-aeroportuale.pdf",
+    "hash": "regionelazio2022sistaero",
+    "stato": "ok",
+    "note": "Latina citata solo come scalo militare"
   }
 }

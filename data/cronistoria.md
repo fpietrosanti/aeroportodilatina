@@ -2,7 +2,7 @@
 
 > Archivio cronologico primario, verificato, delle vicende e delle proposte di riconversione/uso civile dell'aeroporto militare 'Enrico Comani' di Latina, dalla fine degli anni '90 a oggi. Ogni voce ha un ID stabile e citabile. L'analisi derivata (mappa stakeholder, schede tematiche, sito, voce Wikipedia) rinvia a questi ID.
 
-*Ultimo aggiornamento: 2026-07-03. 21 voci. Fonte di verita': `cronistoria.json` (non modificare i .md/.csv generati).*
+*Ultimo aggiornamento: 2026-07-03. 22 voci. Fonte di verita': `cronistoria.json` (non modificare i .md/.csv generati).*
 
 ## 1938-03-28 — Inaugurazione dell'aeroporto (contesto infrastrutturale)  `EV-INFRA-001`
 
@@ -142,6 +142,14 @@
 - **Citazione:** «la Regione chiede alla Direzione generale per gli aeroporti e il trasporto aereo un incontro urgente per valutare un tavolo tecnico per il terzo aeroporto del Lazio; Latina Oggi: 'Terzo aeroporto nel Lazio, Latina torna a sperare'.»
 - **Fonti:** [Il Messaggero (Latina)](https://www.ilmessaggero.it/pay/latina_pay/terzo_aeroporto_de_amicis_rilancia_l_ipotesi_di_latina-6073925.html) ([📄 copia PDF](../archive/pdf/il-messaggero-latina_2021-07_pay-latina-pay-terzo-aeroporto-de-amicis-rilancia-l-ipotesi-_69222ceedb.pdf)); [Latina Oggi](https://www.latinaoggi.eu/news/attualita/168321) ([📄 copia PDF](../archive/pdf/latina-oggi_2021-07_news-attualita-168321_99e8795f97.pdf))
 - **⚠ Reperimento:** Regione Lazio / MIT (protocollo della richiesta) — _Accesso agli atti alla Regione Lazio per la nota di richiesta e all'eventuale riscontro del MIT_
+
+## 2022-11 — Regione Lazio, PRMTL 'Il Sistema Aeroportuale': Latina solo come scalo militare, non tra i candidati civili  `EV-2022-001`
+
+- **Categoria:** documento di pianificazione  ·  **Tema:** terzo-scalo  ·  **Esito:** Latina non inclusa tra gli scali civili  ·  **Affidabilità:** alta
+- **Soggetti:** Regione Lazio (Direzione regionale Infrastrutture e Mobilità)
+- **Descrizione:** Il documento 'Il Sistema Aeroportuale' allegato al Piano Regionale della Mobilità, dei Trasporti e della Logistica (PRMTL, nov 2022) elenca Latina UNICAMENTE tra gli scali militari del Lazio (con Viterbo, Frosinone, Pratica di Mare, Furbara, Guidonia) e in una tabella dei tempi di trasporto verso Fiumicino. NON considera Latina tra i candidati a scalo civile o terzo aeroporto regionale. Documenta lo scarto tra le mozioni politiche pro-Latina (2018, 2020) e la pianificazione regionale effettiva, coerente con l'indirizzo 2026 verso la quarta pista di Fiumicino.
+- **Citazione:** ««...sono poi presenti gli scali militari di Viterbo, Frosinone, Latina, Pratica di Mare, Furbara e Guidonia...» (Latina classificata come scalo militare, non civile)»
+- **Fonti:** [Regione Lazio](https://www.regione.lazio.it/sites/default/files/2022-11/Il-Sistema-Aeroportuale.pdf) ([📄 copia PDF](../archive/pdf/regione-lazio_2022-11_prmtl-il-sistema-aeroportuale.pdf))
 
 ## 2025-02-05 — Il presidente Rocca riapre l'ipotesi al Forum del Turismo  `EV-2025-001`
 
